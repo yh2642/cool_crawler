@@ -32,8 +32,8 @@ class CoolCrawlerPipeline(object):
     # pipeline dafault function                    #这个函数是pipeline默认调用的函数
     def process_item(self, item, spider):
         query = self.dbpool.runInteraction(self._conditional_insert, item)
-        item["crawled"] = datetime.utcnow()
-        item["spider"] = spider.name
+        #item["crawled"] = datetime.utcnow()
+        #item["spider"] = spider.name
         return item
 
     # insert the data to databases                 #把数据插入到数据库中

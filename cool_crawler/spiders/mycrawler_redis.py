@@ -16,7 +16,7 @@ class MyCrawler(RedisMixin, CrawlSpider):
              Rule(LinkExtractor(allow=('page=\d+',)), follow=True),
              Rule(LinkExtractor(allow=('/page/page/\d+',)), follow =True),
              Rule(LinkExtractor(allow=('/page/purchase.htm',)), follow=True, callback='countparse')]
-
+    download_delay = 0.2
 
     def __init__(self, *args, **kwargs):
         domain = kwargs.pop('domain', '')
