@@ -1,0 +1,278 @@
+2015-08-31 17:48:17 [scrapy] INFO: Scrapy 1.0.3 started (bot: cool_crawler)
+2015-08-31 17:48:17 [scrapy] INFO: Optional features available: ssl, http11
+2015-08-31 17:48:17 [scrapy] INFO: Overridden settings: {'NEWSPIDER_MODULE': 'cool_crawler.spiders', 'FEED_URI': 'test.json', 'SPIDER_MODULES': ['cool_crawler.spiders'], 'BOT_NAME': 'cool_crawler', 'SCHEDULER': 'scrapy_redis.scheduler.Scheduler', 'FEED_FORMAT': 'json', 'LOG_FILE': 'log.log'}
+2015-08-31 17:48:20 [scrapy] INFO: Enabled extensions: CloseSpider, FeedExporter, TelnetConsole, LogStats, CoreStats, SpiderState
+2015-08-31 17:48:20 [buy_offer] DEBUG: Reading URLs from redis list 'buy_offer:start_urls'
+2015-08-31 17:48:22 [py.warnings] WARNING: /usr/local/lib/python2.7/dist-packages/scrapy/utils/deprecate.py:155: ScrapyDeprecationWarning: `scrapy.contrib.downloadermiddleware.useragent.UserAgentMiddleware` class is deprecated, use `scrapy.downloadermiddlewares.useragent.UserAgentMiddleware` instead
+  ScrapyDeprecationWarning)
+
+2015-08-31 17:48:22 [py.warnings] WARNING: /home/huyichao/scrapy/cool_crawler/cool_crawler/comm.py:3: ScrapyDeprecationWarning: Module `scrapy.contrib.downloadermiddleware.useragent` is deprecated, use `scrapy.downloadermiddlewares.useragent` instead
+  from scrapy.contrib.downloadermiddleware.useragent import UserAgentMiddleware
+
+2015-08-31 17:48:22 [scrapy] INFO: Enabled downloader middlewares: HttpAuthMiddleware, DownloadTimeoutMiddleware, RotateUserAgentMiddleware, RetryMiddleware, DefaultHeadersMiddleware, MetaRefreshMiddleware, HttpCompressionMiddleware, RedirectMiddleware, CookiesMiddleware, ChunkedTransferMiddleware, DownloaderStats
+2015-08-31 17:48:22 [scrapy] INFO: Enabled spider middlewares: HttpErrorMiddleware, OffsiteMiddleware, RefererMiddleware, UrlLengthMiddleware, DepthMiddleware
+2015-08-31 17:48:23 [scrapy] INFO: Enabled item pipelines: CoolCrawlerPipeline
+2015-08-31 17:48:23 [scrapy] INFO: Spider opened
+2015-08-31 17:48:23 [scrapy] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2015-08-31 17:48:23 [scrapy] DEBUG: Telnet console listening on 127.0.0.1:6023
+2015-08-31 17:49:23 [scrapy] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2015-08-31 17:50:23 [scrapy] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2015-08-31 17:50:53 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=jhwuyue> from <GET http://go.1688.com/page/portal.htm?member_id=jhwuyue>
+2015-08-31 17:50:54 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=jhwuyue> (referer: None)
+2015-08-31 17:50:55 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/73715371363.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=jhwuyue)
+2015-08-31 17:50:55 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/63830221363.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=jhwuyue)
+2015-08-31 17:50:55 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/60684961363.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=jhwuyue)
+2015-08-31 17:50:55 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/73020621363.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=jhwuyue)
+2015-08-31 17:50:55 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/73715371363.htm>
+{'amount': u'150',
+ 'company': u'\u91d1\u534e\u5e02\u4f0d\u5cb3\u5bc6\u5c01\u4ef6\u6709\u9650\u516c\u53f8',
+ 'crawled': datetime.datetime(2015, 8, 31, 9, 50, 55, 203540),
+ 'memberid': u'jhwuyue',
+ 'offer_cat': u'10390',
+ 'offer_id': u'73715371363',
+ 'product': u'\u56db\u6c1f\u7ba1',
+ 'spider': 'buy_offer',
+ 'type': 'BUY',
+ 'unit': u'\u53ea'}
+2015-08-31 17:50:55 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/105702621363.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=jhwuyue)
+2015-08-31 17:50:55 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/105702241363.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=jhwuyue)
+2015-08-31 17:50:55 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/124177001363.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=jhwuyue)
+2015-08-31 17:50:55 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/124215921363.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=jhwuyue)
+2015-08-31 17:50:55 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/63830221363.htm>
+{'amount': u'30',
+ 'company': u'\u91d1\u534e\u5e02\u4f0d\u5cb3\u5bc6\u5c01\u4ef6\u6709\u9650\u516c\u53f8',
+ 'crawled': datetime.datetime(2015, 8, 31, 9, 50, 55, 239073),
+ 'memberid': u'jhwuyue',
+ 'offer_cat': u'1046186',
+ 'offer_id': u'63830221363',
+ 'product': u'\u6c1f\u6a61\u80f6\u57ab\u7247',
+ 'spider': 'buy_offer',
+ 'type': 'BUY',
+ 'unit': u'\u53ea'}
+2015-08-31 17:50:55 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/60684961363.htm>
+{'amount': u'20',
+ 'company': u'\u91d1\u534e\u5e02\u4f0d\u5cb3\u5bc6\u5c01\u4ef6\u6709\u9650\u516c\u53f8',
+ 'crawled': datetime.datetime(2015, 8, 31, 9, 50, 55, 257128),
+ 'memberid': u'jhwuyue',
+ 'offer_cat': u'1035457',
+ 'offer_id': u'60684961363',
+ 'product': u'\u56db\u6c1f\u5305\u8986\u57ab',
+ 'spider': 'buy_offer',
+ 'type': 'BUY',
+ 'unit': u'\u53ea'}
+2015-08-31 17:50:55 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/60684961363.htm>
+{'amount': u'30',
+ 'company': u'\u91d1\u534e\u5e02\u4f0d\u5cb3\u5bc6\u5c01\u4ef6\u6709\u9650\u516c\u53f8',
+ 'crawled': datetime.datetime(2015, 8, 31, 9, 50, 55, 258228),
+ 'memberid': u'jhwuyue',
+ 'offer_cat': u'1035457',
+ 'offer_id': u'60684961363',
+ 'product': u'\u56db\u6c1f\u5305\u8986\u57ab',
+ 'spider': 'buy_offer',
+ 'type': 'BUY',
+ 'unit': u'\u53ea'}
+2015-08-31 17:50:55 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/60684961363.htm>
+{'amount': u'20',
+ 'company': u'\u91d1\u534e\u5e02\u4f0d\u5cb3\u5bc6\u5c01\u4ef6\u6709\u9650\u516c\u53f8',
+ 'crawled': datetime.datetime(2015, 8, 31, 9, 50, 55, 258960),
+ 'memberid': u'jhwuyue',
+ 'offer_cat': u'1035457',
+ 'offer_id': u'60684961363',
+ 'product': u'\u56db\u6c1f\u5305\u8986\u57ab',
+ 'spider': 'buy_offer',
+ 'type': 'BUY',
+ 'unit': u'\u53ea'}
+2015-08-31 17:50:55 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/60684961363.htm>
+{'amount': u'12',
+ 'company': u'\u91d1\u534e\u5e02\u4f0d\u5cb3\u5bc6\u5c01\u4ef6\u6709\u9650\u516c\u53f8',
+ 'crawled': datetime.datetime(2015, 8, 31, 9, 50, 55, 259911),
+ 'memberid': u'jhwuyue',
+ 'offer_cat': u'1035457',
+ 'offer_id': u'60684961363',
+ 'product': u'\u56db\u6c1f\u5305\u8986\u57ab',
+ 'spider': 'buy_offer',
+ 'type': 'BUY',
+ 'unit': u'\u53ea'}
+2015-08-31 17:50:55 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/80708811363.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=jhwuyue)
+2015-08-31 17:50:55 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/111304091363.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=jhwuyue)
+2015-08-31 17:50:55 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/73020621363.htm>
+{'amount': u'120',
+ 'company': u'\u91d1\u534e\u5e02\u4f0d\u5cb3\u5bc6\u5c01\u4ef6\u6709\u9650\u516c\u53f8',
+ 'crawled': datetime.datetime(2015, 8, 31, 9, 50, 55, 268954),
+ 'memberid': u'jhwuyue',
+ 'offer_cat': u'1032468',
+ 'offer_id': u'73020621363',
+ 'product': u'\u77f3\u58a8\u7ea4\u7ef4\u57ab\u5708',
+ 'spider': 'buy_offer',
+ 'type': 'BUY',
+ 'unit': u'\u53ea'}
+2015-08-31 17:50:55 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/73020621363.htm>
+{'amount': u'120',
+ 'company': u'\u91d1\u534e\u5e02\u4f0d\u5cb3\u5bc6\u5c01\u4ef6\u6709\u9650\u516c\u53f8',
+ 'crawled': datetime.datetime(2015, 8, 31, 9, 50, 55, 269393),
+ 'memberid': u'jhwuyue',
+ 'offer_cat': u'1032468',
+ 'offer_id': u'73020621363',
+ 'product': u'\u77f3\u58a8\u7ea4\u7ef4\u57ab\u5708',
+ 'spider': 'buy_offer',
+ 'type': 'BUY',
+ 'unit': u'\u53ea'}
+2015-08-31 17:50:55 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/105050201363.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=jhwuyue)
+2015-08-31 17:50:55 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/105702621363.htm>
+{'amount': u'480',
+ 'company': u'\u91d1\u534e\u5e02\u4f0d\u5cb3\u5bc6\u5c01\u4ef6\u6709\u9650\u516c\u53f8',
+ 'crawled': datetime.datetime(2015, 8, 31, 9, 50, 55, 310184),
+ 'memberid': u'jhwuyue',
+ 'offer_cat': u'1035457',
+ 'offer_id': u'105702621363',
+ 'product': u'G3504\u57ab\u7247',
+ 'spider': 'buy_offer',
+ 'type': 'BUY',
+ 'unit': u'\u53ea'}
+2015-08-31 17:50:55 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/105702241363.htm>
+{'amount': u'2',
+ 'company': u'\u91d1\u534e\u5e02\u4f0d\u5cb3\u5bc6\u5c01\u4ef6\u6709\u9650\u516c\u53f8',
+ 'crawled': datetime.datetime(2015, 8, 31, 9, 50, 55, 326016),
+ 'memberid': u'jhwuyue',
+ 'offer_cat': u'1035457',
+ 'offer_id': u'105702241363',
+ 'product': u'G3500\u57ab\u7247',
+ 'spider': 'buy_offer',
+ 'type': 'BUY',
+ 'unit': u'\u53ea'}
+2015-08-31 17:50:55 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=jhwuyue&page=1&query_type=buyoffer&site_id=bing_portal> (referer: http://portal.go.1688.com/page/portal.htm?member_id=jhwuyue)
+2015-08-31 17:50:55 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/124177001363.htm>
+{'amount': u'300',
+ 'company': u'\u91d1\u534e\u5e02\u4f0d\u5cb3\u5bc6\u5c01\u4ef6\u6709\u9650\u516c\u53f8',
+ 'crawled': datetime.datetime(2015, 8, 31, 9, 50, 55, 330231),
+ 'memberid': u'jhwuyue',
+ 'offer_cat': u'1035457',
+ 'offer_id': u'124177001363',
+ 'product': u'G3504\u6539\u6027\u56db\u6c1f\u57ab\u7247',
+ 'spider': 'buy_offer',
+ 'type': 'BUY',
+ 'unit': u'\u53ea'}
+2015-08-31 17:50:55 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/124215921363.htm>
+{'amount': u'100',
+ 'company': u'\u91d1\u534e\u5e02\u4f0d\u5cb3\u5bc6\u5c01\u4ef6\u6709\u9650\u516c\u53f8',
+ 'crawled': datetime.datetime(2015, 8, 31, 9, 50, 55, 333888),
+ 'memberid': u'jhwuyue',
+ 'offer_cat': u'1035451',
+ 'offer_id': u'124215921363',
+ 'product': u'\u56db\u6c1f\u5305\u8986\u57ab\u7247',
+ 'spider': 'buy_offer',
+ 'type': 'BUY',
+ 'unit': u'\u53ea'}
+2015-08-31 17:50:55 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/80708811363.htm>
+{'amount': u'2000',
+ 'company': u'\u91d1\u534e\u5e02\u4f0d\u5cb3\u5bc6\u5c01\u4ef6\u6709\u9650\u516c\u53f8',
+ 'crawled': datetime.datetime(2015, 8, 31, 9, 50, 55, 367060),
+ 'memberid': u'jhwuyue',
+ 'offer_cat': u'1035457',
+ 'offer_id': u'80708811363',
+ 'product': u'PTFE\u57ab\u7247',
+ 'spider': 'buy_offer',
+ 'type': 'BUY',
+ 'unit': u'\u53ea'}
+2015-08-31 17:50:55 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/111304091363.htm>
+{'amount': u'10',
+ 'company': u'\u91d1\u534e\u5e02\u4f0d\u5cb3\u5bc6\u5c01\u4ef6\u6709\u9650\u516c\u53f8',
+ 'crawled': datetime.datetime(2015, 8, 31, 9, 50, 55, 370591),
+ 'memberid': u'jhwuyue',
+ 'offer_cat': u'1035451',
+ 'offer_id': u'111304091363',
+ 'product': u'\u805a\u56db\u6c1f\u4e59\u70ef\u586b\u5145\u77f3\u58a8\u5957',
+ 'spider': 'buy_offer',
+ 'type': 'BUY',
+ 'unit': u'\u53ea'}
+2015-08-31 17:50:55 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/66316831363.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=jhwuyue)
+2015-08-31 17:50:55 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/105050201363.htm>
+{'amount': u'400',
+ 'company': u'\u91d1\u534e\u5e02\u4f0d\u5cb3\u5bc6\u5c01\u4ef6\u6709\u9650\u516c\u53f8',
+ 'crawled': datetime.datetime(2015, 8, 31, 9, 50, 55, 391393),
+ 'memberid': u'jhwuyue',
+ 'offer_cat': u'1035465',
+ 'offer_id': u'105050201363',
+ 'product': u'G3504\u57ab\u7247',
+ 'spider': 'buy_offer',
+ 'type': 'BUY',
+ 'unit': u'\u53ea'}
+2015-08-31 17:50:55 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/105050201363.htm>
+{'amount': u'10',
+ 'company': u'\u91d1\u534e\u5e02\u4f0d\u5cb3\u5bc6\u5c01\u4ef6\u6709\u9650\u516c\u53f8',
+ 'crawled': datetime.datetime(2015, 8, 31, 9, 50, 55, 391849),
+ 'memberid': u'jhwuyue',
+ 'offer_cat': u'1035465',
+ 'offer_id': u'105050201363',
+ 'product': u'G3500\u57ab\u7247',
+ 'spider': 'buy_offer',
+ 'type': 'BUY',
+ 'unit': u'\u53ea'}
+2015-08-31 17:50:55 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/66316831363.htm>
+{'amount': u'6',
+ 'company': u'\u91d1\u534e\u5e02\u4f0d\u5cb3\u5bc6\u5c01\u4ef6\u6709\u9650\u516c\u53f8',
+ 'crawled': datetime.datetime(2015, 8, 31, 9, 50, 55, 487854),
+ 'memberid': u'jhwuyue',
+ 'offer_cat': None,
+ 'offer_id': u'66316831363',
+ 'product': u'\u8010\u70ed\u6a61\u80f6\u57ab\u7247',
+ 'spider': 'buy_offer',
+ 'type': 'BUY',
+ 'unit': u'\u53ea'}
+2015-08-31 17:50:55 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/66316831363.htm>
+{'amount': u'12',
+ 'company': u'\u91d1\u534e\u5e02\u4f0d\u5cb3\u5bc6\u5c01\u4ef6\u6709\u9650\u516c\u53f8',
+ 'crawled': datetime.datetime(2015, 8, 31, 9, 50, 55, 488431),
+ 'memberid': u'jhwuyue',
+ 'offer_cat': None,
+ 'offer_id': u'66316831363',
+ 'product': u'\u8010\u70ed\u6a61\u80f6\u57ab\u7247',
+ 'spider': 'buy_offer',
+ 'type': 'BUY',
+ 'unit': u'\u53ea'}
+2015-08-31 17:50:55 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/66316831363.htm>
+{'amount': u'4',
+ 'company': u'\u91d1\u534e\u5e02\u4f0d\u5cb3\u5bc6\u5c01\u4ef6\u6709\u9650\u516c\u53f8',
+ 'crawled': datetime.datetime(2015, 8, 31, 9, 50, 55, 488836),
+ 'memberid': u'jhwuyue',
+ 'offer_cat': None,
+ 'offer_id': u'66316831363',
+ 'product': u'\u8010\u70ed\u6a61\u80f6\u57ab\u7247',
+ 'spider': 'buy_offer',
+ 'type': 'BUY',
+ 'unit': u'\u53ea'}
+2015-08-31 17:50:55 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/66316831363.htm>
+{'amount': u'12',
+ 'company': u'\u91d1\u534e\u5e02\u4f0d\u5cb3\u5bc6\u5c01\u4ef6\u6709\u9650\u516c\u53f8',
+ 'crawled': datetime.datetime(2015, 8, 31, 9, 50, 55, 489231),
+ 'memberid': u'jhwuyue',
+ 'offer_cat': None,
+ 'offer_id': u'66316831363',
+ 'product': u'\u8010\u70ed\u6a61\u80f6\u57ab\u7247',
+ 'spider': 'buy_offer',
+ 'type': 'BUY',
+ 'unit': u'\u53ea'}
+2015-08-31 17:51:23 [scrapy] INFO: Crawled 14 pages (at 14 pages/min), scraped 20 items (at 20 items/min)
+2015-08-31 17:51:53 [scrapy] INFO: Received SIGINT, shutting down gracefully. Send again to force 
+2015-08-31 17:51:53 [scrapy] INFO: Closing spider (shutdown)
+2015-08-31 17:51:53 [scrapy] INFO: Stored json feed (20 items) in: test.json
+2015-08-31 17:51:53 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 11870,
+ 'downloader/request_count': 15,
+ 'downloader/request_method_count/GET': 15,
+ 'downloader/response_bytes': 133479,
+ 'downloader/response_count': 15,
+ 'downloader/response_status_count/200': 14,
+ 'downloader/response_status_count/301': 1,
+ 'finish_reason': 'shutdown',
+ 'finish_time': datetime.datetime(2015, 8, 31, 9, 51, 53, 490117),
+ 'item_scraped_count': 20,
+ 'log_count/DEBUG': 37,
+ 'log_count/INFO': 12,
+ 'log_count/WARNING': 2,
+ 'request_depth_max': 2,
+ 'response_received_count': 14,
+ 'scheduler/dequeued/redis': 15,
+ 'scheduler/enqueued/redis': 15,
+ 'start_time': datetime.datetime(2015, 8, 31, 9, 48, 23, 584759)}
+2015-08-31 17:51:53 [scrapy] INFO: Spider closed (shutdown)
