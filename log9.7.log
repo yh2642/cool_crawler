@@ -30121,3 +30121,2065 @@
  'type': 'BUY',
  'unit': u'\u53f0'}
 2015-09-07 13:16:10 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688888721> (referer: None)
+2015-09-07 13:16:10 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/102293951503.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688891188)
+2015-09-07 13:16:10 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/91304311503.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688891188)
+2015-09-07 13:16:10 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/102293951503.htm>
+{'amount': u'1',
+ 'company': u'\u4f59\u59da\u5e02\u57ce\u71a0\u5bb6\u7eba\u5382',
+ 'memberid': u'b2b-1688891188',
+ 'offer_cat': None,
+ 'offer_id': u'102293951503',
+ 'product': u'\u6709\u673a\u98df\u54c1\u7ea7\u7845\u80f6',
+ 'type': 'BUY',
+ 'unit': u'\u5428'}
+2015-09-07 13:16:10 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/91304311503.htm>
+{'amount': u'1',
+ 'company': u'\u4f59\u59da\u5e02\u57ce\u71a0\u5bb6\u7eba\u5382',
+ 'memberid': u'b2b-1688891188',
+ 'offer_cat': u'1031729',
+ 'offer_id': u'91304311503',
+ 'product': u'pp\u68c9\u586b\u5145\u68c9',
+ 'type': 'BUY',
+ 'unit': u'\u5428'}
+2015-09-07 13:16:10 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/91313181503.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688891188)
+2015-09-07 13:16:11 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/91313181503.htm>
+{'amount': u'5000',
+ 'company': u'\u4f59\u59da\u5e02\u57ce\u71a0\u5bb6\u7eba\u5382',
+ 'memberid': u'b2b-1688891188',
+ 'offer_cat': u'1043472',
+ 'offer_id': u'91313181503',
+ 'product': u'\u7ea4\u7ef4\u5e03 \u8d85\u7ec6',
+ 'type': 'BUY',
+ 'unit': u'\u7c73'}
+2015-09-07 13:16:11 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688840288> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688840288>
+2015-09-07 13:16:11 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688918868> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688918868>
+2015-09-07 13:16:11 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688890546> (referer: None)
+2015-09-07 13:16:11 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688891857> (referer: None)
+2015-09-07 13:16:12 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688904522> (referer: None)
+2015-09-07 13:16:12 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688941196> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688941196>
+2015-09-07 13:16:12 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688943181> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688943181>
+2015-09-07 13:16:12 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688836606> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688836606>
+2015-09-07 13:16:13 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688833519> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688833519>
+2015-09-07 13:16:13 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688839528> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688839528>
+2015-09-07 13:16:13 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688830422> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688830422>
+2015-09-07 13:16:13 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688945970> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688945970>
+2015-09-07 13:16:14 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688826392> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688826392>
+2015-09-07 13:16:14 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688949993> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688949993>
+2015-09-07 13:16:14 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688950413> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688950413>
+2015-09-07 13:16:14 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688823750> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688823750>
+2015-09-07 13:16:15 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688840288> (referer: None)
+2015-09-07 13:16:15 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688918868> (referer: None)
+2015-09-07 13:16:15 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688823064> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688823064>
+2015-09-07 13:16:15 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688825888> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688825888>
+2015-09-07 13:16:16 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688956100> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688956100>
+2015-09-07 13:16:16 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688941196> (referer: None)
+2015-09-07 13:16:16 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688943181> (referer: None)
+2015-09-07 13:16:16 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688836606> (referer: None)
+2015-09-07 13:16:16 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688833519> (referer: None)
+2015-09-07 13:16:17 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688839528> (referer: None)
+2015-09-07 13:16:17 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688830422> (referer: None)
+2015-09-07 13:16:17 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688945970> (referer: None)
+2015-09-07 13:16:17 [scrapy] INFO: Crawled 4580 pages (at 172 pages/min), scraped 2475 items (at 68 items/min)
+2015-09-07 13:16:17 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688826392> (referer: None)
+2015-09-07 13:16:18 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688949993> (referer: None)
+2015-09-07 13:16:18 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688950413> (referer: None)
+2015-09-07 13:16:18 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688823750> (referer: None)
+2015-09-07 13:16:18 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692638065> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1692638065>
+2015-09-07 13:16:19 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692641256> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1692641256>
+2015-09-07 13:16:19 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688823064> (referer: None)
+2015-09-07 13:16:19 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688825888> (referer: None)
+2015-09-07 13:16:19 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688956100> (referer: None)
+2015-09-07 13:16:20 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692641345> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1692641345>
+2015-09-07 13:16:20 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692641684> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1692641684>
+2015-09-07 13:16:20 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692643033> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1692643033>
+2015-09-07 13:16:20 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692643706> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1692643706>
+2015-09-07 13:16:21 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692650186> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1692650186>
+2015-09-07 13:16:21 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692650375> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1692650375>
+2015-09-07 13:16:21 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692650834> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1692650834>
+2015-09-07 13:16:21 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692654644> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1692654644>
+2015-09-07 13:16:21 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692655436> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1692655436>
+2015-09-07 13:16:22 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692658707> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1692658707>
+2015-09-07 13:16:22 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692659238> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1692659238>
+2015-09-07 13:16:22 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692638065> (referer: None)
+2015-09-07 13:16:23 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692641256> (referer: None)
+2015-09-07 13:16:23 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692660650> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1692660650>
+2015-09-07 13:16:23 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692661348> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1692661348>
+2015-09-07 13:16:23 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692669485> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1692669485>
+2015-09-07 13:16:24 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692641345> (referer: None)
+2015-09-07 13:16:24 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692641256&page=1&query_type=buyoffer&site_id=bing_portal> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692641256)
+2015-09-07 13:16:24 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692641684> (referer: None)
+2015-09-07 13:16:24 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692643033> (referer: None)
+2015-09-07 13:16:24 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692641684&page=1&query_type=buyoffer&site_id=bing_portal> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692641684)
+2015-09-07 13:16:24 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692643706> (referer: None)
+2015-09-07 13:16:25 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692650186> (referer: None)
+2015-09-07 13:16:25 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692650375> (referer: None)
+2015-09-07 13:16:25 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692650186&page=1&query_type=buyoffer&site_id=bing_portal> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692650186)
+2015-09-07 13:16:25 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692650834> (referer: None)
+2015-09-07 13:16:25 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692654644> (referer: None)
+2015-09-07 13:16:26 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692655436> (referer: None)
+2015-09-07 13:16:26 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692650834&page=1&query_type=buyoffer&site_id=bing_portal> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692650834)
+2015-09-07 13:16:26 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692658707> (referer: None)
+2015-09-07 13:16:26 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692659238> (referer: None)
+2015-09-07 13:16:26 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692669957> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1692669957>
+2015-09-07 13:16:26 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692673017> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1692673017>
+2015-09-07 13:16:27 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692660650> (referer: None)
+2015-09-07 13:16:27 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692661348> (referer: None)
+2015-09-07 13:16:27 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692669485> (referer: None)
+2015-09-07 13:16:27 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692661348&page=1&query_type=buyoffer&site_id=bing_portal> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692661348)
+2015-09-07 13:16:28 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/129859260025.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692641256)
+2015-09-07 13:16:28 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/129859260025.htm>
+{'amount': u'15000',
+ 'company': u'\u4e1c\u839e\u5e02\u77f3\u6392\u57a3\u7199\u4e94\u91d1\u6a61\u80f6\u5236\u54c1\u5382',
+ 'memberid': u'b2b-1692641256',
+ 'offer_cat': u'1816',
+ 'offer_id': u'129859260025',
+ 'product': u'\u767b\u5c71\u6263 \u846b\u82a6\u5f62',
+ 'type': 'BUY',
+ 'unit': u'\u4e2a'}
+2015-09-07 13:16:28 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692676491> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1692676491>
+2015-09-07 13:16:28 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/77303881912.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692641684)
+2015-09-07 13:16:28 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/77303881912.htm>
+{'amount': u'10000',
+ 'company': u'\u4e2d\u5c71\u5e02\u53e4\u9547\u6f6e\u5c1a\u706f\u9970\u95e8\u5e02\u90e8',
+ 'memberid': u'b2b-1692641684',
+ 'offer_cat': u'1046759',
+ 'offer_id': u'77303881912',
+ 'product': u'\u7403\u6ce1\u706f',
+ 'type': 'BUY',
+ 'unit': u'PCS'}
+2015-09-07 13:16:28 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/99585031912.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692641684)
+2015-09-07 13:16:28 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/99585031912.htm>
+{'amount': u'1000',
+ 'company': u'\u4e2d\u5c71\u5e02\u53e4\u9547\u6f6e\u5c1a\u706f\u9970\u95e8\u5e02\u90e8',
+ 'memberid': u'b2b-1692641684',
+ 'offer_cat': u'1046758',
+ 'offer_id': u'99585031912',
+ 'product': u'6W 12W  18W\u9762\u677f\u706f\u6210\u54c1\u706f',
+ 'type': 'BUY',
+ 'unit': u'\u4e2a'}
+2015-09-07 13:16:28 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/58465621912.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692641684)
+2015-09-07 13:16:29 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/58465621912.htm>
+{'amount': u'1000',
+ 'company': u'\u4e2d\u5c71\u5e02\u53e4\u9547\u6f6e\u5c1a\u706f\u9970\u95e8\u5e02\u90e8',
+ 'memberid': u'b2b-1692641684',
+ 'offer_cat': u'1046764',
+ 'offer_id': u'58465621912',
+ 'product': u'12W\u8f68\u9053\u706f',
+ 'type': 'BUY',
+ 'unit': u'\u4e2a'}
+2015-09-07 13:16:29 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/70536382007.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692650186)
+2015-09-07 13:16:29 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/70536382007.htm>
+{'amount': u'1000',
+ 'company': u'\u6df1\u5733\u5e02\u6c47\u5174\u5fb7\u79d1\u6280\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1692650186',
+ 'offer_cat': u'1042207',
+ 'offer_id': u'70536382007',
+ 'product': u'\u76ae\u5957',
+ 'type': 'BUY',
+ 'unit': u'\u4e2a'}
+2015-09-07 13:16:29 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/74344052007.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692650186)
+2015-09-07 13:16:29 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/74344052007.htm>
+{'amount': u'600',
+ 'company': u'\u6df1\u5733\u5e02\u6c47\u5174\u5fb7\u79d1\u6280\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1692650186',
+ 'offer_cat': u'1042207',
+ 'offer_id': u'74344052007',
+ 'product': u'\u76ae\u5957',
+ 'type': 'BUY',
+ 'unit': u'\u4e2a'}
+2015-09-07 13:16:29 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/76037992007.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692650186)
+2015-09-07 13:16:29 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/76037992007.htm>
+{'amount': u'2000',
+ 'company': u'\u6df1\u5733\u5e02\u6c47\u5174\u5fb7\u79d1\u6280\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1692650186',
+ 'offer_cat': u'1035976',
+ 'offer_id': u'76037992007',
+ 'product': u'\u7535\u5bb9\u7b14',
+ 'type': 'BUY',
+ 'unit': u'\u652f'}
+2015-09-07 13:16:29 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/82988362007.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692650186)
+2015-09-07 13:16:30 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/82988362007.htm>
+{'amount': u'4000',
+ 'company': u'\u6df1\u5733\u5e02\u6c47\u5174\u5fb7\u79d1\u6280\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1692650186',
+ 'offer_cat': u'1035976',
+ 'offer_id': u'82988362007',
+ 'product': u'\u7535\u5bb9\u7b14',
+ 'type': 'BUY',
+ 'unit': u'\u652f'}
+2015-09-07 13:16:30 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/65192411912.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692641684)
+2015-09-07 13:16:30 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/65192411912.htm>
+{'amount': u'5000',
+ 'company': u'\u4e2d\u5c71\u5e02\u53e4\u9547\u6f6e\u5c1a\u706f\u9970\u95e8\u5e02\u90e8',
+ 'memberid': u'b2b-1692641684',
+ 'offer_cat': u'10227',
+ 'offer_id': u'65192411912',
+ 'product': u'5w cob\u5957\u4ef6',
+ 'type': 'BUY',
+ 'unit': u'\u53ea'}
+2015-09-07 13:16:30 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/92866470385.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692650834)
+2015-09-07 13:16:30 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/92866470385.htm>
+{'amount': u'3000',
+ 'company': u'\u6d66\u6c5f\u6e90\u521b\u6c34\u6676\u5de5\u827a\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1692650834',
+ 'offer_cat': u'1033021',
+ 'offer_id': u'92866470385',
+ 'product': u'\u6c34\u6676\u76d2  \u900f\u660e',
+ 'type': 'BUY',
+ 'unit': u'\u4ef6'}
+2015-09-07 13:16:30 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692669957> (referer: None)
+2015-09-07 13:16:30 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692673017> (referer: None)
+2015-09-07 13:16:31 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/92867940385.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692650834)
+2015-09-07 13:16:31 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/92867940385.htm>
+{'amount': u'3000',
+ 'company': u'\u6d66\u6c5f\u6e90\u521b\u6c34\u6676\u5de5\u827a\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1692650834',
+ 'offer_cat': u'1033021',
+ 'offer_id': u'92867940385',
+ 'product': u'\u6c34\u6676\u76d2 \u4e9a\u514b\u529b\u76d2',
+ 'type': 'BUY',
+ 'unit': u'\u4ef6'}
+2015-09-07 13:16:31 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/74313902007.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692650186)
+2015-09-07 13:16:31 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/74313902007.htm>
+{'amount': u'15',
+ 'company': u'\u6df1\u5733\u5e02\u6c47\u5174\u5fb7\u79d1\u6280\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1692650186',
+ 'offer_cat': u'2117',
+ 'offer_id': u'74313902007',
+ 'product': u'\u4e09\u7528\u6fc0\u5149\u7b14',
+ 'type': 'BUY',
+ 'unit': u'\u4e07'}
+2015-09-07 13:16:31 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/111672772007.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692650186)
+2015-09-07 13:16:31 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/111672772007.htm>
+{'amount': u'15000',
+ 'company': u'\u6df1\u5733\u5e02\u6c47\u5174\u5fb7\u79d1\u6280\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1692650186',
+ 'offer_cat': u'1035976',
+ 'offer_id': u'111672772007',
+ 'product': u'\u4f38\u7f29\u7535\u5bb9\u7b14',
+ 'type': 'BUY',
+ 'unit': u'\u4ef6'}
+2015-09-07 13:16:32 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/89734212007.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692650186)
+2015-09-07 13:16:32 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/89734212007.htm>
+{'amount': u'5000',
+ 'company': u'\u6df1\u5733\u5e02\u6c47\u5174\u5fb7\u79d1\u6280\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1692650186',
+ 'offer_cat': u'1035976',
+ 'offer_id': u'89734212007',
+ 'product': u'\u6fc0\u5149+\u624b\u5199\u7b14',
+ 'type': 'BUY',
+ 'unit': u'\u652f'}
+2015-09-07 13:16:32 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692676491> (referer: None)
+2015-09-07 13:16:32 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/58335092007.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692650186)
+2015-09-07 13:16:32 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/58335092007.htm>
+{'amount': u'150000',
+ 'company': u'\u6df1\u5733\u5e02\u6c47\u5174\u5fb7\u79d1\u6280\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1692650186',
+ 'offer_cat': u'1035976',
+ 'offer_id': u'58335092007',
+ 'product': u'3\u7528\u6fc0\u5149\u7535\u5bb9\u7b14',
+ 'type': 'BUY',
+ 'unit': u'\u652f'}
+2015-09-07 13:16:32 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/82750872007.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692650186)
+2015-09-07 13:16:32 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/82750872007.htm>
+{'amount': u'200',
+ 'company': u'\u6df1\u5733\u5e02\u6c47\u5174\u5fb7\u79d1\u6280\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1692650186',
+ 'offer_cat': u'1035976',
+ 'offer_id': u'82750872007',
+ 'product': u'9.0\u5bfc\u7535\u5e03\u7535\u5bb9\u7b14',
+ 'type': 'BUY',
+ 'unit': u'\u652f'}
+2015-09-07 13:16:32 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/97005970385.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692650834)
+2015-09-07 13:16:33 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/97005970385.htm>
+{'amount': u'3000',
+ 'company': u'\u6d66\u6c5f\u6e90\u521b\u6c34\u6676\u5de5\u827a\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1692650834',
+ 'offer_cat': u'1042857',
+ 'offer_id': u'97005970385',
+ 'product': u'\u4e9a\u514b\u529b_\u6c34\u6676%\u76d2_\u5305\u88c5\u76d2%',
+ 'type': 'BUY',
+ 'unit': u'\u4ef6'}
+2015-09-07 13:16:33 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/106606451912.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692641684)
+2015-09-07 13:16:33 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/106606451912.htm>
+{'amount': u'10000',
+ 'company': u'\u4e2d\u5c71\u5e02\u53e4\u9547\u6f6e\u5c1a\u706f\u9970\u95e8\u5e02\u90e8',
+ 'memberid': u'b2b-1692641684',
+ 'offer_cat': u'1046759',
+ 'offer_id': u'106606451912',
+ 'product': u'3W5W7W9W12W',
+ 'type': 'BUY',
+ 'unit': u'\u4e2a'}
+2015-09-07 13:16:33 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/71618600703.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692661348)
+2015-09-07 13:16:33 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/71618600703.htm>
+{'amount': u'5',
+ 'company': u'\u4e1c\u839e\u5e02\u5174\u4f18\u529b\u5851\u80f6\u4e94\u91d1\u5236\u54c1\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1692661348',
+ 'offer_cat': u'1038374',
+ 'offer_id': u'71618600703',
+ 'product': u'\u9540\u950c\u7ba1\u51b2\u5b54\u673a',
+ 'type': 'BUY',
+ 'unit': u'\u53f0'}
+2015-09-07 13:16:33 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/71617200703.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692661348)
+2015-09-07 13:16:33 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/71617200703.htm>
+{'amount': u'5',
+ 'company': u'\u4e1c\u839e\u5e02\u5174\u4f18\u529b\u5851\u80f6\u4e94\u91d1\u5236\u54c1\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1692661348',
+ 'offer_cat': u'10524',
+ 'offer_id': u'71617200703',
+ 'product': u'\u51b2\u5f27\u673a',
+ 'type': 'BUY',
+ 'unit': u'\u53f0'}
+2015-09-07 13:16:33 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/108943712007.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692650186)
+2015-09-07 13:16:33 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/108943712007.htm>
+{'amount': u'50000',
+ 'company': u'\u6df1\u5733\u5e02\u6c47\u5174\u5fb7\u79d1\u6280\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1692650186',
+ 'offer_cat': u'1035976',
+ 'offer_id': u'108943712007',
+ 'product': u'\u65b9\u5f62\u7535\u5bb9\u7b14 \u5e26\u9632\u5c18\u585e',
+ 'type': 'BUY',
+ 'unit': u'\u652f'}
+2015-09-07 13:16:34 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/112484532007.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692650186)
+2015-09-07 13:16:34 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/112484532007.htm>
+{'amount': u'50000',
+ 'company': u'\u6df1\u5733\u5e02\u6c47\u5174\u5fb7\u79d1\u6280\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1692650186',
+ 'offer_cat': u'1035976',
+ 'offer_id': u'112484532007',
+ 'product': u'\u91d1\u5c5e\u65b9\u5f62\u7535\u5bb9\u7b14 \u5e26\u9632\u5c18\u585e',
+ 'type': 'BUY',
+ 'unit': u'\u652f'}
+2015-09-07 13:16:34 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/133161891912.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692641684)
+2015-09-07 13:16:34 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/133161891912.htm>
+{'amount': u'150000',
+ 'company': u'\u4e2d\u5c71\u5e02\u53e4\u9547\u6f6e\u5c1a\u706f\u9970\u95e8\u5e02\u90e8',
+ 'memberid': u'b2b-1692641684',
+ 'offer_cat': u'1034977',
+ 'offer_id': u'133161891912',
+ 'product': u'\u5929\u82b1\u706f\u6bdb\u80da',
+ 'type': 'BUY',
+ 'unit': u'PCS'}
+2015-09-07 13:16:34 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688788206> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688788206>
+2015-09-07 13:16:34 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688791669> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688791669>
+2015-09-07 13:16:35 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688791824> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688791824>
+2015-09-07 13:16:35 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688783798> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688783798>
+2015-09-07 13:16:35 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688782685> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688782685>
+2015-09-07 13:16:35 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688773532> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688773532>
+2015-09-07 13:16:36 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688771897> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688771897>
+2015-09-07 13:16:36 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688795031> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688795031>
+2015-09-07 13:16:36 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688763124> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688763124>
+2015-09-07 13:16:36 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688759996> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688759996>
+2015-09-07 13:16:36 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688756562> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688756562>
+2015-09-07 13:16:37 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688753302> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688753302>
+2015-09-07 13:16:37 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688746762> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688746762>
+2015-09-07 13:16:37 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688743037> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688743037>
+2015-09-07 13:16:37 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688721594> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688721594>
+2015-09-07 13:16:37 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688717604> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688717604>
+2015-09-07 13:16:38 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688788206> (referer: None)
+2015-09-07 13:16:38 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688791669> (referer: None)
+2015-09-07 13:16:38 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688791824> (referer: None)
+2015-09-07 13:16:38 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688783798> (referer: None)
+2015-09-07 13:16:39 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688782685> (referer: None)
+2015-09-07 13:16:39 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688773532> (referer: None)
+2015-09-07 13:16:39 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688771897> (referer: None)
+2015-09-07 13:16:39 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688782685&page=1&query_type=buyoffer&site_id=bing_portal> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688782685)
+2015-09-07 13:16:39 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688795031> (referer: None)
+2015-09-07 13:16:39 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688763124> (referer: None)
+2015-09-07 13:16:40 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688759996> (referer: None)
+2015-09-07 13:16:40 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688795031&page=1&query_type=buyoffer&site_id=bing_portal> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688795031)
+2015-09-07 13:16:40 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688756562> (referer: None)
+2015-09-07 13:16:40 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688759996&page=1&query_type=buyoffer&site_id=bing_portal> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688759996)
+2015-09-07 13:16:40 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688753302> (referer: None)
+2015-09-07 13:16:40 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688756562&page=1&query_type=buyoffer&site_id=bing_portal> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688756562)
+2015-09-07 13:16:40 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688746762> (referer: None)
+2015-09-07 13:16:41 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688743037> (referer: None)
+2015-09-07 13:16:41 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688721594> (referer: None)
+2015-09-07 13:16:41 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688717228> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688717228>
+2015-09-07 13:16:41 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688717604> (referer: None)
+2015-09-07 13:16:42 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688797238> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688797238>
+2015-09-07 13:16:42 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688802152> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688802152>
+2015-09-07 13:16:42 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688810752> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688810752>
+2015-09-07 13:16:42 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688811900> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688811900>
+2015-09-07 13:16:43 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688812017> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688812017>
+2015-09-07 13:16:43 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/134461021758.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688782685)
+2015-09-07 13:16:43 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/134461021758.htm>
+{'amount': u'2',
+ 'company': u'\u4e0a\u6d77\u7280\u6ce2\u91d1\u5c5e\u8f6f\u7ba1\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688782685',
+ 'offer_cat': u'1034913',
+ 'offer_id': u'134461021758',
+ 'product': u'\u963b\u71c3PE\u7c92\u5b50',
+ 'type': 'BUY',
+ 'unit': u'\u5428'}
+2015-09-07 13:16:43 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688717604&page=1&query_type=buyoffer&site_id=bing_portal> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688717604)
+2015-09-07 13:16:43 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/121417911758.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688782685)
+2015-09-07 13:16:43 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/121417911758.htm>
+{'amount': u'10000',
+ 'company': u'\u4e0a\u6d77\u7280\u6ce2\u91d1\u5c5e\u8f6f\u7ba1\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688782685',
+ 'offer_cat': u'1035466',
+ 'offer_id': u'121417911758',
+ 'product': u'\u4e0d\u9508\u94a2304\u6263\u62bc\u87ba\u5e3d',
+ 'type': 'BUY',
+ 'unit': u'\u4ef6'}
+2015-09-07 13:16:43 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/123941681758.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688782685)
+2015-09-07 13:16:44 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/123941681758.htm>
+{'amount': u'100000',
+ 'company': u'\u4e0a\u6d77\u7280\u6ce2\u91d1\u5c5e\u8f6f\u7ba1\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688782685',
+ 'offer_cat': u'1035466',
+ 'offer_id': u'123941681758',
+ 'product': u'304_\u4e0d\u9508\u94a2%\u516d\u89d2_\u87ba\u5e3d%',
+ 'type': 'BUY',
+ 'unit': u'\u4e2a'}
+2015-09-07 13:16:44 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/54011820869.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688759996)
+2015-09-07 13:16:44 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/54011820869.htm>
+{'amount': u'30',
+ 'company': u'\u4e1c\u839e\u5e02\u715c\u8f89\u7535\u5b50\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688759996',
+ 'offer_cat': u'1036826',
+ 'offer_id': u'54011820869',
+ 'product': u'pet\u7ebf\u6750',
+ 'type': 'BUY',
+ 'unit': u'KG'}
+2015-09-07 13:16:44 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/123983911758.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688782685)
+2015-09-07 13:16:44 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/123983911758.htm>
+{'amount': u'100000',
+ 'company': u'\u4e0a\u6d77\u7280\u6ce2\u91d1\u5c5e\u8f6f\u7ba1\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688782685',
+ 'offer_cat': u'1035466',
+ 'offer_id': u'123983911758',
+ 'product': u'304_\u4e0d\u9508\u94a2%\u516d\u89d2_\u87ba\u5e3d%',
+ 'type': 'BUY',
+ 'unit': u'\u4ef6'}
+2015-09-07 13:16:44 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/117465412023.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688756562)
+2015-09-07 13:16:44 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/117465412023.htm>
+{'amount': u'100000',
+ 'company': u'\u7075\u5c71\u53bf\u548c\u5174\u5851\u6599\u5382',
+ 'memberid': u'b2b-1688756562',
+ 'offer_cat': u'1034922',
+ 'offer_id': u'117465412023',
+ 'product': u'\u73e0\u5149\u819c\u5370\u5237',
+ 'type': 'BUY',
+ 'unit': u'\u5f20'}
+2015-09-07 13:16:44 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/134429291758.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688782685)
+2015-09-07 13:16:45 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/134429291758.htm>
+{'amount': u'2',
+ 'company': u'\u4e0a\u6d77\u7280\u6ce2\u91d1\u5c5e\u8f6f\u7ba1\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688782685',
+ 'offer_cat': u'1031643',
+ 'offer_id': u'134429291758',
+ 'product': u'\u963b\u71c3pvc\u5851\u6599',
+ 'type': 'BUY',
+ 'unit': u'\u5428'}
+2015-09-07 13:16:45 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/123694210869.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688759996)
+2015-09-07 13:16:45 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/123694210869.htm>
+{'amount': u'5000',
+ 'company': u'\u4e1c\u839e\u5e02\u715c\u8f89\u7535\u5b50\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688759996',
+ 'offer_cat': u'1036826',
+ 'offer_id': u'123694210869',
+ 'product': u'\u4e0d\u9508\u94a2\u7f16\u7ec7\u7f51\u7ba1',
+ 'type': 'BUY',
+ 'unit': u'\u7c73'}
+2015-09-07 13:16:45 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/72251060357.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688795031)
+2015-09-07 13:16:45 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/72251060357.htm>
+{'amount': u'20',
+ 'company': u'\u6df1\u5733\u5e02\u5b9d\u5b89\u533a\u677e\u5c97\u4e07\u79d1\u632f\u52a8\u76d8\u8bbe\u5907\u5236\u9020\u5382',
+ 'memberid': u'b2b-1688795031',
+ 'offer_cat': u'1035238',
+ 'offer_id': u'72251060357',
+ 'product': u'\u9707\u52a8\u76d8\u666e\u901a\u63a7\u5236\u5668',
+ 'type': 'BUY',
+ 'unit': u'\u53f0'}
+2015-09-07 13:16:45 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688717228> (referer: None)
+2015-09-07 13:16:45 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/128443371758.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688782685)
+2015-09-07 13:16:46 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/128443371758.htm>
+{'amount': u'1000',
+ 'company': u'\u4e0a\u6d77\u7280\u6ce2\u91d1\u5c5e\u8f6f\u7ba1\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688782685',
+ 'offer_cat': u'1031658',
+ 'offer_id': u'128443371758',
+ 'product': u'\u4e0d\u9508\u94a2304\u6ce2\u7eb9\u7ba1DN50',
+ 'type': 'BUY',
+ 'unit': u'\u7c73'}
+2015-09-07 13:16:46 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688717228&page=1&query_type=buyoffer&site_id=bing_portal> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688717228)
+2015-09-07 13:16:46 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688797238> (referer: None)
+2015-09-07 13:16:46 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688802152> (referer: None)
+2015-09-07 13:16:46 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688810752> (referer: None)
+2015-09-07 13:16:46 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688811900> (referer: None)
+2015-09-07 13:16:47 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688812017> (referer: None)
+2015-09-07 13:16:47 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/70372881667.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688717604)
+2015-09-07 13:16:47 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/60520651667.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688717604)
+2015-09-07 13:16:47 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/70372881667.htm>
+{'amount': u'5',
+ 'company': u'\u6e56\u5dde\u7ec7\u91cc\u535a\u6210\u9488\u7ec7\u7f57\u7eb9\u5382',
+ 'memberid': u'b2b-1688717604',
+ 'offer_cat': u'1031757',
+ 'offer_id': u'70372881667',
+ 'product': u'\u6c28\u7eb6\u4e1d40d',
+ 'type': 'BUY',
+ 'unit': u'\u5428'}
+2015-09-07 13:16:47 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/60520651667.htm>
+{'amount': u'100',
+ 'company': u'\u6e56\u5dde\u7ec7\u91cc\u535a\u6210\u9488\u7ec7\u7f57\u7eb9\u5382',
+ 'memberid': u'b2b-1688717604',
+ 'offer_cat': u'1031760',
+ 'offer_id': u'60520651667',
+ 'product': u'300d\u6da4\u7eb6\u4e1d',
+ 'type': 'BUY',
+ 'unit': u'\u5428'}
+2015-09-07 13:16:47 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/70331321667.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688717604)
+2015-09-07 13:16:47 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/70331321667.htm>
+{'amount': u'5',
+ 'company': u'\u6e56\u5dde\u7ec7\u91cc\u535a\u6210\u9488\u7ec7\u7f57\u7eb9\u5382',
+ 'memberid': u'b2b-1688717604',
+ 'offer_cat': u'1031757',
+ 'offer_id': u'70331321667',
+ 'product': u'\u6c28\u7eb6\u4e1d 70d',
+ 'type': 'BUY',
+ 'unit': u'\u5428'}
+2015-09-07 13:16:48 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/70330361667.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688717604)
+2015-09-07 13:16:48 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/93220801667.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688717604)
+2015-09-07 13:16:48 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/70330361667.htm>
+{'amount': u'50',
+ 'company': u'\u6e56\u5dde\u7ec7\u91cc\u535a\u6210\u9488\u7ec7\u7f57\u7eb9\u5382',
+ 'memberid': u'b2b-1688717604',
+ 'offer_cat': u'10124',
+ 'offer_id': u'70330361667',
+ 'product': u'19\u652f\u53ef\u67d3\u8272\u5927\u5316\u7ea4',
+ 'type': 'BUY',
+ 'unit': u'\u5428'}
+2015-09-07 13:16:48 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/93220801667.htm>
+{'amount': u'100',
+ 'company': u'\u6e56\u5dde\u7ec7\u91cc\u535a\u6210\u9488\u7ec7\u7f57\u7eb9\u5382',
+ 'memberid': u'b2b-1688717604',
+ 'offer_cat': u'1031698',
+ 'offer_id': u'93220801667',
+ 'product': u'\u91d1\u5149\u7ed2',
+ 'type': 'BUY',
+ 'unit': u'\u516c\u65a4'}
+2015-09-07 13:16:48 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/70330771667.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688717604)
+2015-09-07 13:16:48 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/70330771667.htm>
+{'amount': u'50',
+ 'company': u'\u6e56\u5dde\u7ec7\u91cc\u535a\u6210\u9488\u7ec7\u7f57\u7eb9\u5382',
+ 'memberid': u'b2b-1688717604',
+ 'offer_cat': u'10124',
+ 'offer_id': u'70330771667',
+ 'product': u'21\u652f\u6da4\u7eb6\u7eb1 \u53ef\u67d3\u8272',
+ 'type': 'BUY',
+ 'unit': u'\u5428'}
+2015-09-07 13:16:48 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/95033631667.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688717604)
+2015-09-07 13:16:48 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/95033631667.htm>
+{'amount': u'100',
+ 'company': u'\u6e56\u5dde\u7ec7\u91cc\u535a\u6210\u9488\u7ec7\u7f57\u7eb9\u5382',
+ 'memberid': u'b2b-1688717604',
+ 'offer_cat': u'1031714',
+ 'offer_id': u'95033631667',
+ 'product': u'\u9ad8\u5f3a\u5c3c\u9f99\u7ebf150D/2',
+ 'type': 'BUY',
+ 'unit': u'kg'}
+2015-09-07 13:16:49 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/134500191667.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688717604)
+2015-09-07 13:16:49 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/134500191667.htm>
+{'amount': u'50',
+ 'company': u'\u6e56\u5dde\u7ec7\u91cc\u535a\u6210\u9488\u7ec7\u7f57\u7eb9\u5382',
+ 'memberid': u'b2b-1688717604',
+ 'offer_cat': u'4',
+ 'offer_id': u'134500191667',
+ 'product': u'2012/5F2\u8def\u900f\u660e\u6c28\u7eb6\u5305\u8986\u7eb1',
+ 'type': 'BUY',
+ 'unit': u'\u516c\u65a4'}
+2015-09-07 13:16:49 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/132202171758.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688782685)
+2015-09-07 13:16:49 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/101110881667.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688717604)
+2015-09-07 13:16:49 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/132202171758.htm>
+{'amount': u'10000',
+ 'company': u'\u4e0a\u6d77\u7280\u6ce2\u91d1\u5c5e\u8f6f\u7ba1\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688782685',
+ 'offer_cat': u'65',
+ 'offer_id': u'132202171758',
+ 'product': u'\u9ec4\u94dc\u5361\u570818\u7ba1\u5361\u5708\u534a\u5706\u7247',
+ 'type': 'BUY',
+ 'unit': u'\u4e2a'}
+2015-09-07 13:16:49 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/101110881667.htm>
+{'amount': u'1',
+ 'company': u'\u6e56\u5dde\u7ec7\u91cc\u535a\u6210\u9488\u7ec7\u7f57\u7eb9\u5382',
+ 'memberid': u'b2b-1688717604',
+ 'offer_cat': u'1031757',
+ 'offer_id': u'101110881667',
+ 'product': u'\u6c28\u7eb6\u5305\u8986\u4e1d4075',
+ 'type': 'BUY',
+ 'unit': u'\u5428'}
+2015-09-07 13:16:49 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/122120401349.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688717228)
+2015-09-07 13:16:49 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/122120401349.htm>
+{'amount': u'100',
+ 'company': u'\u5de9\u4e49\u5e02\u5e7f\u534e\u7535\u5b50\u9676\u74f7\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688717228',
+ 'offer_cat': u'1032992',
+ 'offer_id': u'122120401349',
+ 'product': u'\u5c01\u7bb1\u80f6\u5e266cm\u5bbd',
+ 'type': 'BUY',
+ 'unit': u'\u4e2a'}
+2015-09-07 13:16:49 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/123233941349.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688717228)
+2015-09-07 13:16:50 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/123233941349.htm>
+{'amount': u'3',
+ 'company': u'\u5de9\u4e49\u5e02\u5e7f\u534e\u7535\u5b50\u9676\u74f7\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688717228',
+ 'offer_cat': u'1034642',
+ 'offer_id': u'123233941349',
+ 'product': u'\u6c27\u5316\u94dd\u7c89',
+ 'type': 'BUY',
+ 'unit': u'\u5428'}
+2015-09-07 13:16:50 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/74203811349.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688717228)
+2015-09-07 13:16:50 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/74203811349.htm>
+{'amount': u'1000',
+ 'company': u'\u5de9\u4e49\u5e02\u5e7f\u534e\u7535\u5b50\u9676\u74f7\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688717228',
+ 'offer_cat': u'1039427',
+ 'offer_id': u'74203811349',
+ 'product': u'\u70ed\u7535\u5076\u63a5\u7ebf\u67f1',
+ 'type': 'BUY',
+ 'unit': u'\u4ef6'}
+2015-09-07 13:16:50 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/122144201349.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688717228)
+2015-09-07 13:16:50 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/122144201349.htm>
+{'amount': u'2',
+ 'company': u'\u5de9\u4e49\u5e02\u5e7f\u534e\u7535\u5b50\u9676\u74f7\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688717228',
+ 'offer_cat': u'100104',
+ 'offer_id': u'122144201349',
+ 'product': u'58\u77f3\u8721',
+ 'type': 'BUY',
+ 'unit': u'\u5428'}
+2015-09-07 13:16:50 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/70331141667.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688717604)
+2015-09-07 13:16:50 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/70331141667.htm>
+{'amount': u'50',
+ 'company': u'\u6e56\u5dde\u7ec7\u91cc\u535a\u6210\u9488\u7ec7\u7f57\u7eb9\u5382',
+ 'memberid': u'b2b-1688717604',
+ 'offer_cat': u'10124',
+ 'offer_id': u'70331141667',
+ 'product': u'32\u652f\u5927\u5316\u7ea4\u6da4\u7eb6\u7eb1 \u53ef\u67d3\u8272',
+ 'type': 'BUY',
+ 'unit': u'\u5428'}
+2015-09-07 13:16:50 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/98614031667.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688717604)
+2015-09-07 13:16:50 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/98614031667.htm>
+{'amount': u'30',
+ 'company': u'\u6e56\u5dde\u7ec7\u91cc\u535a\u6210\u9488\u7ec7\u7f57\u7eb9\u5382',
+ 'memberid': u'b2b-1688717604',
+ 'offer_cat': u'10124',
+ 'offer_id': u'98614031667',
+ 'product': u'2\u53f7\u9ebb\u7070\u6da4\u7eb6\u7eb1',
+ 'type': 'BUY',
+ 'unit': u'\u5428'}
+2015-09-07 13:16:51 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/101223211667.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688717604)
+2015-09-07 13:16:51 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/101223211667.htm>
+{'amount': u'100',
+ 'company': u'\u6e56\u5dde\u7ec7\u91cc\u535a\u6210\u9488\u7ec7\u7f57\u7eb9\u5382',
+ 'memberid': u'b2b-1688717604',
+ 'offer_cat': u'10124',
+ 'offer_id': u'101223211667',
+ 'product': u'\u6da4\u7eb6\u7eb1\u7ebf',
+ 'type': 'BUY',
+ 'unit': u'\u5428'}
+2015-09-07 13:16:51 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/132289682023.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688756562)
+2015-09-07 13:16:51 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/132289682023.htm>
+{'amount': u'10',
+ 'company': u'\u7075\u5c71\u53bf\u548c\u5174\u5851\u6599\u5382',
+ 'memberid': u'b2b-1688756562',
+ 'offer_cat': u'1034905',
+ 'offer_id': u'132289682023',
+ 'product': u'PET \u7ba1\u576f',
+ 'type': 'BUY',
+ 'unit': u'\u4e07'}
+2015-09-07 13:16:51 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/132321442023.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688756562)
+2015-09-07 13:16:51 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/132321442023.htm>
+{'amount': u'10',
+ 'company': u'\u7075\u5c71\u53bf\u548c\u5174\u5851\u6599\u5382',
+ 'memberid': u'b2b-1688756562',
+ 'offer_cat': u'1034905',
+ 'offer_id': u'132321442023',
+ 'product': u'PET \u7ba1\u576f',
+ 'type': 'BUY',
+ 'unit': u'\u4e07'}
+2015-09-07 13:16:51 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/119082802023.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688756562)
+2015-09-07 13:16:51 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/119082802023.htm>
+{'amount': u'20',
+ 'company': u'\u7075\u5c71\u53bf\u548c\u5174\u5851\u6599\u5382',
+ 'memberid': u'b2b-1688756562',
+ 'offer_cat': None,
+ 'offer_id': u'119082802023',
+ 'product': u'25\u514b 28\u53e3\u5f84\u7684\u7ba1\u576f',
+ 'type': 'BUY',
+ 'unit': u'\u4e07'}
+2015-09-07 13:16:52 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/66956010357.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688795031)
+2015-09-07 13:16:52 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/66956010357.htm>
+{'amount': u'50',
+ 'company': u'\u6df1\u5733\u5e02\u5b9d\u5b89\u533a\u677e\u5c97\u4e07\u79d1\u632f\u52a8\u76d8\u8bbe\u5907\u5236\u9020\u5382',
+ 'memberid': u'b2b-1688795031',
+ 'offer_cat': u'1035238',
+ 'offer_id': u'66956010357',
+ 'product': u'\u632f\u52a8\u76d8\u5e95\u5ea7\u914d\u4ef6180#250#300#400#',
+ 'type': 'BUY',
+ 'unit': u'\u5957'}
+2015-09-07 13:16:52 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/60489941667.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688717604)
+2015-09-07 13:16:52 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/60489941667.htm>
+{'amount': u'300',
+ 'company': u'\u6e56\u5dde\u7ec7\u91cc\u535a\u6210\u9488\u7ec7\u7f57\u7eb9\u5382',
+ 'memberid': u'b2b-1688717604',
+ 'offer_cat': u'10124',
+ 'offer_id': u'60489941667',
+ 'product': u'19.21.32\u652f\u672c\u767d\u53ef\u67d3\u8272\u6da4\u7eb6\u7eb1\u5927\u5316\u5343',
+ 'type': 'BUY',
+ 'unit': u'\u5428'}
+2015-09-07 13:16:52 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/111303060357.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688795031)
+2015-09-07 13:16:52 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/111303060357.htm>
+{'amount': u'20',
+ 'company': u'\u6df1\u5733\u5e02\u5b9d\u5b89\u533a\u677e\u5c97\u4e07\u79d1\u632f\u52a8\u76d8\u8bbe\u5907\u5236\u9020\u5382',
+ 'memberid': u'b2b-1688795031',
+ 'offer_cat': u'10348',
+ 'offer_id': u'111303060357',
+ 'product': u'\u632f\u52a8\u76d8\u5e95\u5ea7300#250#\u6574\u5957\u6563\u88c5\u4ef6',
+ 'type': 'BUY',
+ 'unit': u'\u5957'}
+2015-09-07 13:16:52 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/97814922023.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688756562)
+2015-09-07 13:16:52 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/97814922023.htm>
+{'amount': u'1200000',
+ 'company': u'\u7075\u5c71\u53bf\u548c\u5174\u5851\u6599\u5382',
+ 'memberid': u'b2b-1688756562',
+ 'offer_cat': u'1032967',
+ 'offer_id': u'97814922023',
+ 'product': u'\u94dd\u94c2\u7247',
+ 'type': 'BUY',
+ 'unit': u'\u7247'}
+2015-09-07 13:16:53 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/105191550869.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688759996)
+2015-09-07 13:16:53 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688650398> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688650398>
+2015-09-07 13:16:53 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/105191550869.htm>
+{'amount': u'100',
+ 'company': u'\u4e1c\u839e\u5e02\u715c\u8f89\u7535\u5b50\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688759996',
+ 'offer_cat': u'10125',
+ 'offer_id': u'105191550869',
+ 'product': u'\u8367\u5149\u9ec4\u8272\u5c3c\u9f99\u6c99\uff0cPP\u6c99\uff0c \u6da4\u7eb6\u7eb1\uff0c \u9644\u56fe',
+ 'type': 'BUY',
+ 'unit': u'KG'}
+2015-09-07 13:16:53 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688644991> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688644991>
+2015-09-07 13:16:53 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688643683> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688643683>
+2015-09-07 13:16:53 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688643112> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688643112>
+2015-09-07 13:16:53 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688642259> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688642259>
+2015-09-07 13:16:54 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688634674> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688634674>
+2015-09-07 13:16:54 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688631652> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688631652>
+2015-09-07 13:16:54 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688624702> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688624702>
+2015-09-07 13:16:55 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688623004> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688623004>
+2015-09-07 13:16:55 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688614055> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688614055>
+2015-09-07 13:16:55 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688612304> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688612304>
+2015-09-07 13:16:55 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688610107> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688610107>
+2015-09-07 13:16:55 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688603136> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688603136>
+2015-09-07 13:16:56 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688603020> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688603020>
+2015-09-07 13:16:56 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688602385> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688602385>
+2015-09-07 13:16:56 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688600798> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688600798>
+2015-09-07 13:16:56 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688650398> (referer: None)
+2015-09-07 13:16:56 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688644991> (referer: None)
+2015-09-07 13:16:57 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688643683> (referer: None)
+2015-09-07 13:16:57 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688643112> (referer: None)
+2015-09-07 13:16:57 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688643683&page=1&query_type=buyoffer&site_id=bing_portal> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688643683)
+2015-09-07 13:16:57 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688642259> (referer: None)
+2015-09-07 13:16:57 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688643112&page=1&query_type=buyoffer&site_id=bing_portal> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688643112)
+2015-09-07 13:16:57 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688634674> (referer: None)
+2015-09-07 13:16:58 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688642259&page=1&query_type=buyoffer&site_id=bing_portal> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688642259)
+2015-09-07 13:16:58 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688631652> (referer: None)
+2015-09-07 13:16:58 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688624702> (referer: None)
+2015-09-07 13:16:58 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688623004> (referer: None)
+2015-09-07 13:16:59 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688614055> (referer: None)
+2015-09-07 13:16:59 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688612304> (referer: None)
+2015-09-07 13:16:59 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688610107> (referer: None)
+2015-09-07 13:16:59 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688612304&page=1&query_type=buyoffer&site_id=bing_portal> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688612304)
+2015-09-07 13:16:59 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688603136> (referer: None)
+2015-09-07 13:17:00 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688603020> (referer: None)
+2015-09-07 13:17:00 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688602385> (referer: None)
+2015-09-07 13:17:00 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688600798> (referer: None)
+2015-09-07 13:17:00 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688593577> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688593577>
+2015-09-07 13:17:00 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688647735> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688647735>
+2015-09-07 13:17:01 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688651112> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688651112>
+2015-09-07 13:17:01 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/130429540292.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688643683)
+2015-09-07 13:17:01 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/130429540292.htm>
+{'amount': u'5000',
+ 'company': u'\u6df1\u5733\u5e02\u9e3f\u660a\u5347\u7535\u5b50\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688643683',
+ 'offer_cat': u'10206',
+ 'offer_id': u'130429540292',
+ 'product': u'803450 1500mah',
+ 'type': 'BUY',
+ 'unit': u'\u4e2a'}
+2015-09-07 13:17:01 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/128017430292.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688643683)
+2015-09-07 13:17:01 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/128017430292.htm>
+{'amount': u'1610',
+ 'company': u'\u6df1\u5733\u5e02\u9e3f\u660a\u5347\u7535\u5b50\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688643683',
+ 'offer_cat': u'10206',
+ 'offer_id': u'128017430292',
+ 'product': u'603976 2000mah',
+ 'type': 'BUY',
+ 'unit': u'\u4e2a'}
+2015-09-07 13:17:01 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/67837261219.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688643112)
+2015-09-07 13:17:02 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/67837261219.htm>
+{'amount': u'50000',
+ 'company': u'\u5e7f\u5dde\u5e02\u597d\u7684\u95e8\u7a97\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688643112',
+ 'offer_cat': u'1033167',
+ 'offer_id': u'67837261219',
+ 'product': u'\u52fe\u9501',
+ 'type': 'BUY',
+ 'unit': u'\u4e2a'}
+2015-09-07 13:17:02 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/131383410292.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688643683)
+2015-09-07 13:17:02 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/131383410292.htm>
+{'amount': u'5000',
+ 'company': u'\u6df1\u5733\u5e02\u9e3f\u660a\u5347\u7535\u5b50\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688643683',
+ 'offer_cat': u'10206',
+ 'offer_id': u'131383410292',
+ 'product': u'16340\u7535\u82af5k',
+ 'type': 'BUY',
+ 'unit': u'\u4e2a'}
+2015-09-07 13:17:02 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/121179721219.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688643112)
+2015-09-07 13:17:02 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/121179721219.htm>
+{'amount': u'600',
+ 'company': u'\u5e7f\u5dde\u5e02\u597d\u7684\u95e8\u7a97\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688643112',
+ 'offer_cat': u'1034588',
+ 'offer_id': u'121179721219',
+ 'product': u'\u8f6f\u88c5\u73bb\u7483\u80f6',
+ 'type': 'BUY',
+ 'unit': u'\u4ef6'}
+2015-09-07 13:17:02 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/127760741219.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688643112)
+2015-09-07 13:17:02 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/127760741219.htm>
+{'amount': u'200',
+ 'company': u'\u5e7f\u5dde\u5e02\u597d\u7684\u95e8\u7a97\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688643112',
+ 'offer_cat': u'1036285',
+ 'offer_id': u'127760741219',
+ 'product': u'\u62c9\u4f38\u819c',
+ 'type': 'BUY',
+ 'unit': u'\u4ef6'}
+2015-09-07 13:17:02 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/74721181246.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688642259)
+2015-09-07 13:17:02 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/74721181246.htm>
+{'amount': u'1',
+ 'company': u'\u4e0a\u6d77\u95f5\u8d21\u5b9e\u4e1a\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688642259',
+ 'offer_cat': u'1031634',
+ 'offer_id': u'74721181246',
+ 'product': u'\u5927\u849c\u6cb9\u72b6\u9999\u7cbe',
+ 'type': 'BUY',
+ 'unit': u'\u4ef6'}
+2015-09-07 13:17:03 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/74721501246.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688642259)
+2015-09-07 13:17:03 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/74721501246.htm>
+{'amount': u'1',
+ 'company': u'\u4e0a\u6d77\u95f5\u8d21\u5b9e\u4e1a\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688642259',
+ 'offer_cat': u'1031634',
+ 'offer_id': u'74721501246',
+ 'product': u'\u82b1\u6912\u6cb9\u72b6\u9999\u7cbe',
+ 'type': 'BUY',
+ 'unit': u'\u4ef6'}
+2015-09-07 13:17:03 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/124999651219.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688643112)
+2015-09-07 13:17:03 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/124999651219.htm>
+{'amount': u'10000',
+ 'company': u'\u5e7f\u5dde\u5e02\u597d\u7684\u95e8\u7a97\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688643112',
+ 'offer_cat': u'1035823',
+ 'offer_id': u'124999651219',
+ 'product': u'\u4e2d\u7a7a\u94dd\u9694\u6761\\\u89d2\u7801',
+ 'type': 'BUY',
+ 'unit': u'\u7c73'}
+2015-09-07 13:17:03 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/128506170292.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688643683)
+2015-09-07 13:17:03 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/63988280292.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688643683)
+2015-09-07 13:17:03 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/128506170292.htm>
+{'amount': u'11000',
+ 'company': u'\u6df1\u5733\u5e02\u9e3f\u660a\u5347\u7535\u5b50\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688643683',
+ 'offer_cat': u'10206',
+ 'offer_id': u'128506170292',
+ 'product': u'\u529b\u795e18650 3.7v 2600mah',
+ 'type': 'BUY',
+ 'unit': u'\u4e2a'}
+2015-09-07 13:17:03 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/63988280292.htm>
+{'amount': u'380',
+ 'company': u'\u6df1\u5733\u5e02\u9e3f\u660a\u5347\u7535\u5b50\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688643683',
+ 'offer_cat': u'10206',
+ 'offer_id': u'63988280292',
+ 'product': u'\u805a\u5408\u7269\u9502\u7535\u6c60502040',
+ 'type': 'BUY',
+ 'unit': u'PCS'}
+2015-09-07 13:17:04 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/120370071219.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688643112)
+2015-09-07 13:17:04 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/120370071219.htm>
+{'amount': u'1000',
+ 'company': u'\u5e7f\u5dde\u5e02\u597d\u7684\u95e8\u7a97\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688643112',
+ 'offer_cat': u'1033167',
+ 'offer_id': u'120370071219',
+ 'product': u'\u94dd\u5408\u91d1\u63a8\u62c9\u7a97 \u52fe\u9501',
+ 'type': 'BUY',
+ 'unit': u'\u4e2a'}
+2015-09-07 13:17:04 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/137361570292.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688643683)
+2015-09-07 13:17:04 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/137361570292.htm>
+{'amount': u'5000',
+ 'company': u'\u6df1\u5733\u5e02\u9e3f\u660a\u5347\u7535\u5b50\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688643683',
+ 'offer_cat': u'10206',
+ 'offer_id': u'137361570292',
+ 'product': u'633280 603976 2000mah\u805a\u5408\u7269\u9502\u7535\u6c60 A\u54c15000\u4e2a',
+ 'type': 'BUY',
+ 'unit': u'\u4e2a'}
+2015-09-07 13:17:04 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688593577> (referer: None)
+2015-09-07 13:17:04 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688647735> (referer: None)
+2015-09-07 13:17:05 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/127255710292.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688643683)
+2015-09-07 13:17:05 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688651112> (referer: None)
+2015-09-07 13:17:05 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/127255710292.htm>
+{'amount': u'1010',
+ 'company': u'\u6df1\u5733\u5e02\u9e3f\u660a\u5347\u7535\u5b50\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688643683',
+ 'offer_cat': u'10206',
+ 'offer_id': u'127255710292',
+ 'product': u'102535 800mah\u805a\u5408\u7269\u9502\u7535\u6c60',
+ 'type': 'BUY',
+ 'unit': u'\u4e2a'}
+2015-09-07 13:17:05 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/130991490292.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688643683)
+2015-09-07 13:17:05 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/130991490292.htm>
+{'amount': u'4000',
+ 'company': u'\u6df1\u5733\u5e02\u9e3f\u660a\u5347\u7535\u5b50\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688643683',
+ 'offer_cat': u'10206',
+ 'offer_id': u'130991490292',
+ 'product': u'353540 480mah\u805a\u5408\u7269\u9502\u7535\u82af',
+ 'type': 'BUY',
+ 'unit': u'\u4e2a'}
+2015-09-07 13:17:05 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688651112&page=1&query_type=buyoffer&site_id=bing_portal> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688651112)
+2015-09-07 13:17:05 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/115134570292.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688643683)
+2015-09-07 13:17:06 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/115134570292.htm>
+{'amount': u'3000',
+ 'company': u'\u6df1\u5733\u5e02\u9e3f\u660a\u5347\u7535\u5b50\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688643683',
+ 'offer_cat': None,
+ 'offer_id': u'115134570292',
+ 'product': u'501220',
+ 'type': 'BUY',
+ 'unit': u'PCS'}
+2015-09-07 13:17:06 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/137992400292.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688643683)
+2015-09-07 13:17:06 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/137992400292.htm>
+{'amount': u'5000',
+ 'company': u'\u6df1\u5733\u5e02\u9e3f\u660a\u5347\u7535\u5b50\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688643683',
+ 'offer_cat': u'10206',
+ 'offer_id': u'137992400292',
+ 'product': u'124050\uff08\u4e24\u4e2a604050\u5e76\u8054\u7ec4\u5408\u4e5f\u53ef\u4ee5\uff09\u805a\u5408\u7269\u9502\u7535\u6c60',
+ 'type': 'BUY',
+ 'unit': u'\u7ec4'}
+2015-09-07 13:17:06 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/139672870292.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688643683)
+2015-09-07 13:17:06 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/139672870292.htm>
+{'amount': u'5000',
+ 'company': u'\u6df1\u5733\u5e02\u9e3f\u660a\u5347\u7535\u5b50\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688643683',
+ 'offer_cat': u'10206',
+ 'offer_id': u'139672870292',
+ 'product': u'501522\u805a\u5408\u7269\u9502\u7535\u6c60\u6216\u8005\u76f8\u8fd1\u578b\u53f7\u7535\u6c60',
+ 'type': 'BUY',
+ 'unit': u'\u4e2a'}
+2015-09-07 13:17:06 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/104643190064.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688612304)
+2015-09-07 13:17:06 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/104643190064.htm>
+{'amount': u'10000',
+ 'company': u'\u6df1\u5733\u5e02\u91d1\u60a6\u8fbe\u949f\u8868\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688612304',
+ 'offer_cat': None,
+ 'offer_id': u'104643190064',
+ 'product': u'\u5851\u80f6\u8868\u58f3',
+ 'type': 'BUY',
+ 'unit': u'\u53ea'}
+2015-09-07 13:17:06 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/98613390064.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688612304)
+2015-09-07 13:17:07 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/98613390064.htm>
+{'amount': u'5000',
+ 'company': u'\u6df1\u5733\u5e02\u91d1\u60a6\u8fbe\u949f\u8868\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688612304',
+ 'offer_cat': None,
+ 'offer_id': u'98613390064',
+ 'product': u'\u5851\u80f6\u8868\u58f3',
+ 'type': 'BUY',
+ 'unit': u'\u5957'}
+2015-09-07 13:17:07 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/98613260064.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688612304)
+2015-09-07 13:17:07 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/98613260064.htm>
+{'amount': u'10000',
+ 'company': u'\u6df1\u5733\u5e02\u91d1\u60a6\u8fbe\u949f\u8868\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688612304',
+ 'offer_cat': None,
+ 'offer_id': u'98613260064',
+ 'product': u'\u5fc3\u7387\u8868\u5851\u80f6\u8868\u58f3',
+ 'type': 'BUY',
+ 'unit': u'\u5957'}
+2015-09-07 13:17:07 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688548036> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688548036>
+2015-09-07 13:17:07 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688546089> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688546089>
+2015-09-07 13:17:07 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688548070> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688548070>
+2015-09-07 13:17:08 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688536233> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688536233>
+2015-09-07 13:17:08 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688535908> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688535908>
+2015-09-07 13:17:08 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688528200> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688528200>
+2015-09-07 13:17:08 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688538875> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688538875>
+2015-09-07 13:17:09 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688558513> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688558513>
+2015-09-07 13:17:09 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688559101> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688559101>
+2015-09-07 13:17:09 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/95076381536.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688651112)
+2015-09-07 13:17:09 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/95076381536.htm>
+{'amount': u'10',
+ 'company': u'\u4e1c\u8425\u4e07\u4f73\u8282\u80fd\u6750\u6599\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688651112',
+ 'offer_cat': u'1031604',
+ 'offer_id': u'95076381536',
+ 'product': u'\u805a\u6c28\u916f\u55b7\u6d82\u5916\u5899\u4fdd\u6e29\u539f\u6599\u9ed1\u6599',
+ 'type': 'BUY',
+ 'unit': u'\u5428'}
+2015-09-07 13:17:09 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/95076381536.htm>
+{'amount': u'10',
+ 'company': u'\u4e1c\u8425\u4e07\u4f73\u8282\u80fd\u6750\u6599\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688651112',
+ 'offer_cat': u'1031604',
+ 'offer_id': u'95076381536',
+ 'product': u'\u805a\u6c28\u916f\u55b7\u6d82\u5916\u5899\u4fdd\u6e29\u539f\u6599\u767d\u6599',
+ 'type': 'BUY',
+ 'unit': u'\u5428'}
+2015-09-07 13:17:10 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/112706051536.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688651112)
+2015-09-07 13:17:10 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/112706051536.htm>
+{'amount': u'50',
+ 'company': u'\u4e1c\u8425\u4e07\u4f73\u8282\u80fd\u6750\u6599\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688651112',
+ 'offer_cat': u'1321',
+ 'offer_id': u'112706051536',
+ 'product': u'30-50\u76ee\u7c97\u6f02\u73e0',
+ 'type': 'BUY',
+ 'unit': u'\u5428'}
+2015-09-07 13:17:10 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/91374631536.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688651112)
+2015-09-07 13:17:10 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/91374631536.htm>
+{'amount': u'10',
+ 'company': u'\u4e1c\u8425\u4e07\u4f73\u8282\u80fd\u6750\u6599\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688651112',
+ 'offer_cat': u'1037240',
+ 'offer_id': u'91374631536',
+ 'product': u'\u805a\u80fa\u8102\u9ed1\u767d\u6599',
+ 'type': 'BUY',
+ 'unit': u'\u5428'}
+2015-09-07 13:17:10 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/93586121536.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688651112)
+2015-09-07 13:17:10 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/91416171536.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688651112)
+2015-09-07 13:17:10 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/93586121536.htm>
+{'amount': u'17000',
+ 'company': u'\u4e1c\u8425\u4e07\u4f73\u8282\u80fd\u6750\u6599\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688651112',
+ 'offer_cat': u'1038416',
+ 'offer_id': u'93586121536',
+ 'product': u'\u805a\u6c28\u916f\u55b7\u6d82\u5916\u5899\u4fdd\u6e29',
+ 'type': 'BUY',
+ 'unit': u'\u5e73\u65b9\u7c73'}
+2015-09-07 13:17:10 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/91416171536.htm>
+{'amount': u'20000',
+ 'company': u'\u4e1c\u8425\u4e07\u4f73\u8282\u80fd\u6750\u6599\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688651112',
+ 'offer_cat': None,
+ 'offer_id': u'91416171536',
+ 'product': u'\u805a\u6c28\u916f\u55b7\u6d82\u5916\u5899\u4fdd\u6e29\u5c42',
+ 'type': 'BUY',
+ 'unit': u'\u5e73\u65b9\u7c73'}
+2015-09-07 13:17:10 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688478079> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688478079>
+2015-09-07 13:17:11 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688477414> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688477414>
+2015-09-07 13:17:11 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688548036> (referer: None)
+2015-09-07 13:17:11 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688546089> (referer: None)
+2015-09-07 13:17:11 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688548036&page=1&query_type=buyoffer&site_id=bing_portal> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688548036)
+2015-09-07 13:17:12 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688548070> (referer: None)
+2015-09-07 13:17:12 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688536233> (referer: None)
+2015-09-07 13:17:12 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688535908> (referer: None)
+2015-09-07 13:17:12 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688528200> (referer: None)
+2015-09-07 13:17:12 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688538875> (referer: None)
+2015-09-07 13:17:13 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688558513> (referer: None)
+2015-09-07 13:17:13 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688559101> (referer: None)
+2015-09-07 13:17:13 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688474684> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688474684>
+2015-09-07 13:17:13 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688467262> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688467262>
+2015-09-07 13:17:13 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688466988> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688466988>
+2015-09-07 13:17:14 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688465470> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688465470>
+2015-09-07 13:17:14 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688467971> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688467971>
+2015-09-07 13:17:14 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688478079> (referer: None)
+2015-09-07 13:17:14 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688559101&page=1&query_type=buyoffer&site_id=bing_portal> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688559101)
+2015-09-07 13:17:15 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688477414> (referer: None)
+2015-09-07 13:17:15 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688449930> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688449930>
+2015-09-07 13:17:15 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/128012630774.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688548036)
+2015-09-07 13:17:15 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/128012630774.htm>
+{'amount': u'420',
+ 'company': u'\u5b89\u5e73\u53bf\u677e\u94a2\u62a4\u680f\u7f51\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688548036',
+ 'offer_cat': u'1033444',
+ 'offer_id': u'128012630774',
+ 'product': u'\u70ed\u9540\u950c\u516d\u89d2\u7f51',
+ 'type': 'BUY',
+ 'unit': u'\u7c73'}
+2015-09-07 13:17:15 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688464778> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688464778>
+2015-09-07 13:17:16 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688488286> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688488286>
+2015-09-07 13:17:16 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688489927> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688489927>
+2015-09-07 13:17:16 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688497186> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688497186>
+2015-09-07 13:17:16 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688506866> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688506866>
+2015-09-07 13:17:17 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688509024> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688509024>
+2015-09-07 13:17:17 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688570963> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688570963>
+2015-09-07 13:17:17 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688474684> (referer: None)
+2015-09-07 13:17:17 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688467262> (referer: None)
+2015-09-07 13:17:17 [scrapy] INFO: Crawled 4763 pages (at 183 pages/min), scraped 2561 items (at 86 items/min)
+2015-09-07 13:17:17 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688474684&page=1&query_type=buyoffer&site_id=bing_portal> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688474684)
+2015-09-07 13:17:18 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688466988> (referer: None)
+2015-09-07 13:17:18 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688465470> (referer: None)
+2015-09-07 13:17:18 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688467971> (referer: None)
+2015-09-07 13:17:18 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/80303660967.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688559101)
+2015-09-07 13:17:18 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/80303660967.htm>
+{'amount': u'10000',
+ 'company': u'\u91d1\u6e56\u53bf\u610f\u8bda\u6728\u4e1a\u5236\u54c1\u5382',
+ 'memberid': u'b2b-1688559101',
+ 'offer_cat': u'1032585',
+ 'offer_id': u'80303660967',
+ 'product': u'\u6849\u6728\u5355\u677f',
+ 'type': 'BUY',
+ 'unit': u'\u7acb\u65b9'}
+2015-09-07 13:17:19 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/108723980967.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688559101)
+2015-09-07 13:17:19 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/108723980967.htm>
+{'amount': u'10000',
+ 'company': u'\u91d1\u6e56\u53bf\u610f\u8bda\u6728\u4e1a\u5236\u54c1\u5382',
+ 'memberid': u'b2b-1688559101',
+ 'offer_cat': u'1032585',
+ 'offer_id': u'108723980967',
+ 'product': u'\u6ce1\u6850\u5355\u677f',
+ 'type': 'BUY',
+ 'unit': u'\u7acb\u65b9'}
+2015-09-07 13:17:19 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688467971&page=1&query_type=buyoffer&site_id=bing_portal> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688467971)
+2015-09-07 13:17:19 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688449930> (referer: None)
+2015-09-07 13:17:19 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688575468> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688575468>
+2015-09-07 13:17:19 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688464778> (referer: None)
+2015-09-07 13:17:20 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688488286> (referer: None)
+2015-09-07 13:17:20 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688489927> (referer: None)
+2015-09-07 13:17:20 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688497186> (referer: None)
+2015-09-07 13:17:21 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688506866> (referer: None)
+2015-09-07 13:17:21 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688509024> (referer: None)
+2015-09-07 13:17:21 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688570963> (referer: None)
+2015-09-07 13:17:21 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688387270> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688387270>
+2015-09-07 13:17:21 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/71854791919.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688474684)
+2015-09-07 13:17:22 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/71854791919.htm>
+{'amount': u'25',
+ 'company': u'\u9ad8\u8981\u5e02\u91d1\u5229\u9547\u56db\u661f\u4e94\u91d1\u5382',
+ 'memberid': u'b2b-1688474684',
+ 'offer_cat': u'55',
+ 'offer_id': u'71854791919',
+ 'product': u'PE',
+ 'type': 'BUY',
+ 'unit': u'KG'}
+2015-09-07 13:17:22 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688577513> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688577513>
+2015-09-07 13:17:22 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688578979> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688578979>
+2015-09-07 13:17:22 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688653200> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688653200>
+2015-09-07 13:17:22 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688655273> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688655273>
+2015-09-07 13:17:23 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/111372611730.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688467971)
+2015-09-07 13:17:23 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/111372611730.htm>
+{'amount': u'1000',
+ 'company': u'\u6e56\u5317\u4e50\u6e90\u65b0\u6750\u79d1\u6280\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688467971',
+ 'offer_cat': u'3307',
+ 'offer_id': u'111372611730',
+ 'product': u'XPE',
+ 'type': 'BUY',
+ 'unit': u'\u7c73'}
+2015-09-07 13:17:23 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/122271611730.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688467971)
+2015-09-07 13:17:23 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/122271611730.htm>
+{'amount': u'30000',
+ 'company': u'\u6e56\u5317\u4e50\u6e90\u65b0\u6750\u79d1\u6280\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688467971',
+ 'offer_cat': u'1036428',
+ 'offer_id': u'122271611730',
+ 'product': u'3D\u70ed\u538b\u6c7d\u8f66\u811a\u57ab',
+ 'type': 'BUY',
+ 'unit': u'\u4ef6'}
+2015-09-07 13:17:23 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688575468> (referer: None)
+2015-09-07 13:17:23 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/130451441730.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688467971)
+2015-09-07 13:17:23 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/130451441730.htm>
+{'amount': u'99',
+ 'company': u'\u6e56\u5317\u4e50\u6e90\u65b0\u6750\u79d1\u6280\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688467971',
+ 'offer_cat': u'10386',
+ 'offer_id': u'130451441730',
+ 'product': u'XPE',
+ 'type': 'BUY',
+ 'unit': u'\u5428'}
+2015-09-07 13:17:24 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/134420081730.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688467971)
+2015-09-07 13:17:24 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688321379> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688321379>
+2015-09-07 13:17:24 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/134420081730.htm>
+{'amount': u'999',
+ 'company': u'\u6e56\u5317\u4e50\u6e90\u65b0\u6750\u79d1\u6280\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688467971',
+ 'offer_cat': u'55',
+ 'offer_id': u'134420081730',
+ 'product': u'XPE \u5316\u5b66\u4ea4\u8054\u805a\u4e59\u70ef',
+ 'type': 'BUY',
+ 'unit': u'\u5428'}
+2015-09-07 13:17:24 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688360728> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688360728>
+2015-09-07 13:17:24 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688655870> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688655870>
+2015-09-07 13:17:24 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688657291> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688657291>
+2015-09-07 13:17:25 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688658047> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688658047>
+2015-09-07 13:17:25 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688387270> (referer: None)
+2015-09-07 13:17:25 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688661219> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688661219>
+2015-09-07 13:17:25 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688577513> (referer: None)
+2015-09-07 13:17:25 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688578979> (referer: None)
+2015-09-07 13:17:26 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688653200> (referer: None)
+2015-09-07 13:17:26 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688655273> (referer: None)
+2015-09-07 13:17:26 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688315110> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688315110>
+2015-09-07 13:17:26 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688306118> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688306118>
+2015-09-07 13:17:27 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688277875> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688277875>
+2015-09-07 13:17:27 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688661971> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688661971>
+2015-09-07 13:17:27 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688274903> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688274903>
+2015-09-07 13:17:27 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688321379> (referer: None)
+2015-09-07 13:17:28 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688360728> (referer: None)
+2015-09-07 13:17:28 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688655870> (referer: None)
+2015-09-07 13:17:28 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688657291> (referer: None)
+2015-09-07 13:17:28 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688655870&page=1&query_type=buyoffer&site_id=bing_portal> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688655870)
+2015-09-07 13:17:28 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688658047> (referer: None)
+2015-09-07 13:17:28 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688267886> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688267886>
+2015-09-07 13:17:29 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688661219> (referer: None)
+2015-09-07 13:17:29 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688658047&page=1&query_type=buyoffer&site_id=bing_portal> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688658047)
+2015-09-07 13:17:29 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688670593> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688670593>
+2015-09-07 13:17:29 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688676907> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688676907>
+2015-09-07 13:17:29 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688683963> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688683963>
+2015-09-07 13:17:30 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688684227> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688684227>
+2015-09-07 13:17:30 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688315110> (referer: None)
+2015-09-07 13:17:30 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688306118> (referer: None)
+2015-09-07 13:17:30 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688277875> (referer: None)
+2015-09-07 13:17:31 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688306118&page=1&query_type=buyoffer&site_id=bing_portal> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688306118)
+2015-09-07 13:17:31 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688661971> (referer: None)
+2015-09-07 13:17:31 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688274903> (referer: None)
+2015-09-07 13:17:31 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688690733> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688690733>
+2015-09-07 13:17:31 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688691018> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688691018>
+2015-09-07 13:17:32 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688693209> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688693209>
+2015-09-07 13:17:32 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/64242490389.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688655870)
+2015-09-07 13:17:32 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688702405> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688702405>
+2015-09-07 13:17:32 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/64242490389.htm>
+{'amount': u'247',
+ 'company': u'\u6df1\u5733\u5e02\u9f99\u534e\u65b0\u533a\u6c11\u6cbb\u946b\u704f\u9f99\u7535\u8111\u7ecf\u8425\u90e8',
+ 'memberid': u'b2b-1688655870',
+ 'offer_cat': u'1033285',
+ 'offer_id': u'64242490389',
+ 'product': u'\u4e1c\u829dSD4G\u539f\u7248 \u65e5\u672c\u4ea7',
+ 'type': 'BUY',
+ 'unit': u'\u4e2a'}
+2015-09-07 13:17:32 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688267886> (referer: None)
+2015-09-07 13:17:33 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/94839350710.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688658047)
+2015-09-07 13:17:33 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/94839350710.htm>
+{'amount': u'10',
+ 'company': u'\u4e2d\u5c71\u5e02\u6e90\u80dc\u5316\u5de5\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688658047',
+ 'offer_cat': u'80218',
+ 'offer_id': u'94839350710',
+ 'product': u'\u9a6c\u5170\u724c \u5c0f\u82cf\u6253/\u78b3\u9178\u6c22\u94a0',
+ 'type': 'BUY',
+ 'unit': u'\u5428'}
+2015-09-07 13:17:33 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688670593> (referer: None)
+2015-09-07 13:17:33 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688676907> (referer: None)
+2015-09-07 13:17:34 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688683963> (referer: None)
+2015-09-07 13:17:34 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688684227> (referer: None)
+2015-09-07 13:17:34 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688705824> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688705824>
+2015-09-07 13:17:34 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688819702> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688819702>
+2015-09-07 13:17:34 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/120568951921.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688306118)
+2015-09-07 13:17:34 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/120568951921.htm>
+{'amount': u'800',
+ 'company': u'\u6b66\u6c49\u66f9\u6c0f\u7eb5\u6a2a\u5b9e\u4e1a\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688306118',
+ 'offer_cat': u'10400',
+ 'offer_id': u'120568951921',
+ 'product': u'\u4e2d\u56fd\u9ed1\u82b1\u5c97',
+ 'type': 'BUY',
+ 'unit': u'\u5e73\u65b9'}
+2015-09-07 13:17:34 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/113773011921.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688306118)
+2015-09-07 13:17:34 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688683963&page=1&query_type=buyoffer&site_id=bing_portal> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688683963)
+2015-09-07 13:17:35 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/113773011921.htm>
+{'amount': u'4000',
+ 'company': u'\u6b66\u6c49\u66f9\u6c0f\u7eb5\u6a2a\u5b9e\u4e1a\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688306118',
+ 'offer_cat': u'10400',
+ 'offer_id': u'113773011921',
+ 'product': u'\u829d\u9ebb\u767d\u5149\u9762',
+ 'type': 'BUY',
+ 'unit': u'\u5e73\u65b9'}
+2015-09-07 13:17:35 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688684227&page=1&query_type=buyoffer&site_id=bing_portal> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688684227)
+2015-09-07 13:17:35 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/86781251921.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688306118)
+2015-09-07 13:17:35 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/86781251921.htm>
+{'amount': u'30000',
+ 'company': u'\u6b66\u6c49\u66f9\u6c0f\u7eb5\u6a2a\u5b9e\u4e1a\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688306118',
+ 'offer_cat': u'10400',
+ 'offer_id': u'86781251921',
+ 'product': u'1000X600X50',
+ 'type': 'BUY',
+ 'unit': u'\u5e73\u65b9\u7c73'}
+2015-09-07 13:17:35 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688690733> (referer: None)
+2015-09-07 13:17:35 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688691018> (referer: None)
+2015-09-07 13:17:35 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688690733&page=1&query_type=buyoffer&site_id=bing_portal> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688690733)
+2015-09-07 13:17:35 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688693209> (referer: None)
+2015-09-07 13:17:35 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688691018&page=1&query_type=buyoffer&site_id=bing_portal> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688691018)
+2015-09-07 13:17:36 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692679283> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1692679283>
+2015-09-07 13:17:36 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688702405> (referer: None)
+2015-09-07 13:17:36 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688262172> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688262172>
+2015-09-07 13:17:36 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692680075> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1692680075>
+2015-09-07 13:17:37 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688259382> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688259382>
+2015-09-07 13:17:37 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692687231> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1692687231>
+2015-09-07 13:17:37 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692691441> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1692691441>
+2015-09-07 13:17:37 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692692379> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1692692379>
+2015-09-07 13:17:38 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688705824> (referer: None)
+2015-09-07 13:17:38 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688702405&page=1&query_type=buyoffer&site_id=bing_portal> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688702405)
+2015-09-07 13:17:38 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688819702> (referer: None)
+2015-09-07 13:17:38 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/127388660027.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688683963)
+2015-09-07 13:17:38 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/127388660027.htm>
+{'amount': u'1000',
+ 'company': u'\u6df1\u5733\u5e02\u5e7f\u6e90\u4e30\u79d1\u6280\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688683963',
+ 'offer_cat': u'1041510',
+ 'offer_id': u'127388660027',
+ 'product': u'\u8f66\u8f7dfm\u53d1\u5c04\u5668',
+ 'type': 'BUY',
+ 'unit': u'\u4e2a'}
+2015-09-07 13:17:38 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/128738400027.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688683963)
+2015-09-07 13:17:38 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/128738400027.htm>
+{'amount': u'1000',
+ 'company': u'\u6df1\u5733\u5e02\u5e7f\u6e90\u4e30\u79d1\u6280\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688683963',
+ 'offer_cat': u'1032130',
+ 'offer_id': u'128738400027',
+ 'product': u'LD-318',
+ 'type': 'BUY',
+ 'unit': u'\u4e2a'}
+2015-09-07 13:17:39 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/120003650027.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688683963)
+2015-09-07 13:17:39 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/120003650027.htm>
+{'amount': u'200',
+ 'company': u'\u6df1\u5733\u5e02\u5e7f\u6e90\u4e30\u79d1\u6280\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688683963',
+ 'offer_cat': u'1032130',
+ 'offer_id': u'120003650027',
+ 'product': u'\u84dd\u7259\u514d\u63d0',
+ 'type': 'BUY',
+ 'unit': u'\u4e2a'}
+2015-09-07 13:17:39 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/130596420027.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688683963)
+2015-09-07 13:17:39 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/130596420027.htm>
+{'amount': u'500',
+ 'company': u'\u6df1\u5733\u5e02\u5e7f\u6e90\u4e30\u79d1\u6280\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688683963',
+ 'offer_cat': u'1032130',
+ 'offer_id': u'130596420027',
+ 'product': u'\u8f66\u8f7d\u84dd\u7259\u514d\u63d0',
+ 'type': 'BUY',
+ 'unit': u'\u53f0'}
+2015-09-07 13:17:39 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/74915900951.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688691018)
+2015-09-07 13:17:39 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/74915900951.htm>
+{'amount': u'100000',
+ 'company': u'\u4e1c\u839e\u5e02\u6865\u5934\u946b\u65fa\u5305\u88c5\u5236\u54c1\u5382',
+ 'memberid': u'b2b-1688691018',
+ 'offer_cat': u'165',
+ 'offer_id': u'74915900951',
+ 'product': u'PP\u80f6\u52fe',
+ 'type': 'BUY',
+ 'unit': u'\u4e2a'}
+2015-09-07 13:17:39 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/107174620951.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688691018)
+2015-09-07 13:17:39 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/107174620951.htm>
+{'amount': u'50000',
+ 'company': u'\u4e1c\u839e\u5e02\u6865\u5934\u946b\u65fa\u5305\u88c5\u5236\u54c1\u5382',
+ 'memberid': u'b2b-1688691018',
+ 'offer_cat': u'1033022',
+ 'offer_id': u'107174620951',
+ 'product': u'\u80cc\u80f6\u888b',
+ 'type': 'BUY',
+ 'unit': u'\u4e2a'}
+2015-09-07 13:17:40 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692679283> (referer: None)
+2015-09-07 13:17:40 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/112397890951.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688691018)
+2015-09-07 13:17:40 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/112397890951.htm>
+{'amount': u'50000',
+ 'company': u'\u4e1c\u839e\u5e02\u6865\u5934\u946b\u65fa\u5305\u88c5\u5236\u54c1\u5382',
+ 'memberid': u'b2b-1688691018',
+ 'offer_cat': u'165',
+ 'offer_id': u'112397890951',
+ 'product': u'\u80f6\u624b\u633d',
+ 'type': 'BUY',
+ 'unit': u'\u4e2a'}
+2015-09-07 13:17:40 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692679283&page=1&query_type=buyoffer&site_id=bing_portal> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692679283)
+2015-09-07 13:17:40 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688262172> (referer: None)
+2015-09-07 13:17:40 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692680075> (referer: None)
+2015-09-07 13:17:41 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688259382> (referer: None)
+2015-09-07 13:17:41 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692687231> (referer: None)
+2015-09-07 13:17:41 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692691441> (referer: None)
+2015-09-07 13:17:41 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692687231&page=1&query_type=buyoffer&site_id=bing_portal> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692687231)
+2015-09-07 13:17:41 [scrapy] DEBUG: Redirecting (302) to <GET http://1438238544308.go.1688.com/page/index.htm> from <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692692379>
+2015-09-07 13:17:42 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/132467800027.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688683963)
+2015-09-07 13:17:42 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/132467800027.htm>
+{'amount': u'2000',
+ 'company': u'\u6df1\u5733\u5e02\u5e7f\u6e90\u4e30\u79d1\u6280\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688683963',
+ 'offer_cat': u'1041510',
+ 'offer_id': u'132467800027',
+ 'product': u'fm\u53d1\u5c04\u5668',
+ 'type': 'BUY',
+ 'unit': u'\u4e2a'}
+2015-09-07 13:17:42 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/128545130027.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688683963)
+2015-09-07 13:17:42 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/128545130027.htm>
+{'amount': u'1000',
+ 'company': u'\u6df1\u5733\u5e02\u5e7f\u6e90\u4e30\u79d1\u6280\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688683963',
+ 'offer_cat': u'1041510',
+ 'offer_id': u'128545130027',
+ 'product': u'fm\u53d1\u5c04\u5668',
+ 'type': 'BUY',
+ 'unit': u'\u53f0'}
+2015-09-07 13:17:42 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/128545130027.htm>
+{'amount': u'500',
+ 'company': u'\u6df1\u5733\u5e02\u5e7f\u6e90\u4e30\u79d1\u6280\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688683963',
+ 'offer_cat': u'1041510',
+ 'offer_id': u'128545130027',
+ 'product': u'\u8f66\u8f7d\u84dd\u7259fm\u53d1\u5c04\u5668',
+ 'type': 'BUY',
+ 'unit': u'\u53f0'}
+2015-09-07 13:17:42 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/111574461430.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688690733)
+2015-09-07 13:17:42 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/111574461430.htm>
+{'amount': u'1',
+ 'company': u'\u6148\u6eaa\u5e02\u7cbe\u5929\u5bc6\u5c01\u5236\u54c1\u5382',
+ 'memberid': u'b2b-1688690733',
+ 'offer_cat': None,
+ 'offer_id': u'111574461430',
+ 'product': u'\u6c42\u8d2d\u4e8c\u624b200\u5428\u53cc\u5934\u5e73\u677f\u786b\u5316\u673a',
+ 'type': 'BUY',
+ 'unit': u'\u53f0'}
+2015-09-07 13:17:42 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/127258570027.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688683963)
+2015-09-07 13:17:42 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/127258570027.htm>
+{'amount': u'2000',
+ 'company': u'\u6df1\u5733\u5e02\u5e7f\u6e90\u4e30\u79d1\u6280\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688683963',
+ 'offer_cat': u'1041510',
+ 'offer_id': u'127258570027',
+ 'product': u'FM-186',
+ 'type': 'BUY',
+ 'unit': u'\u53f0'}
+2015-09-07 13:17:42 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/127258570027.htm>
+{'amount': u'2000',
+ 'company': u'\u6df1\u5733\u5e02\u5e7f\u6e90\u4e30\u79d1\u6280\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688683963',
+ 'offer_cat': u'1041510',
+ 'offer_id': u'127258570027',
+ 'product': u'fm-185',
+ 'type': 'BUY',
+ 'unit': u'\u53f0'}
+2015-09-07 13:17:43 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/103453740864.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688702405)
+2015-09-07 13:17:43 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/103453740864.htm>
+{'amount': u'500',
+ 'company': u'\u91cd\u5e86\u5929\u72fc\u5851\u80f6\u7ba1\u4e1a\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688702405',
+ 'offer_cat': u'1033008',
+ 'offer_id': u'103453740864',
+ 'product': u'\u5929\u5730\u76d6 \u767d\u677f\uff08\u725b\u76ae\u7eb8\uff09\u76d2',
+ 'type': 'BUY',
+ 'unit': u'\u4e2a'}
+2015-09-07 13:17:43 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/120179440027.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688683963)
+2015-09-07 13:17:43 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/120179440027.htm>
+{'amount': u'110',
+ 'company': u'\u6df1\u5733\u5e02\u5e7f\u6e90\u4e30\u79d1\u6280\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688683963',
+ 'offer_cat': u'10333',
+ 'offer_id': u'120179440027',
+ 'product': u'BW-608\u84dd\u7259\u8033\u673a',
+ 'type': 'BUY',
+ 'unit': u'\u4ef6'}
+2015-09-07 13:17:43 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/122874191659.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688684227)
+2015-09-07 13:17:43 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/122874191659.htm>
+{'amount': u'200',
+ 'company': u'\u6e29\u5dde\u78a7\u5b8f\u5370\u5237\u673a\u68b0\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688684227',
+ 'offer_cat': u'329',
+ 'offer_id': u'122874191659',
+ 'product': u'\u5370\u5237\u673a\u94dd\u5370\u53f0 \u53f0\u677f',
+ 'type': 'BUY',
+ 'unit': u'pcs'}
+2015-09-07 13:17:43 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688182956> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688182956>
+2015-09-07 13:17:43 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688179662> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688179662>
+2015-09-07 13:17:44 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/122283140494.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692679283)
+2015-09-07 13:17:44 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/122283140494.htm>
+{'amount': u'40',
+ 'company': u'\u6b27\u795e\u77f3\u6cb9\u5316\u5de5\u79d1\u6280\uff08\u5317\u4eac\uff09\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1692679283',
+ 'offer_cat': u'123282008',
+ 'offer_id': u'122283140494',
+ 'product': u'201\u5355\u9762_\u78e8\u7802%\u4e0d\u9508\u94a2\u677f',
+ 'type': 'BUY',
+ 'unit': u'\u5428'}
+2015-09-07 13:17:44 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688178801> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688178801>
+2015-09-07 13:17:44 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688200247> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688200247>
+2015-09-07 13:17:44 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688205030> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688205030>
+2015-09-07 13:17:44 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688213041> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688213041>
+2015-09-07 13:17:45 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/68890430020.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692687231)
+2015-09-07 13:17:45 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/68890430020.htm>
+{'amount': u'100',
+ 'company': u'\u6c38\u5eb7\u5e02\u9b54\u65b9\u5bb6\u5c45\u7528\u54c1\u5382',
+ 'memberid': u'b2b-1692687231',
+ 'offer_cat': u'1033438',
+ 'offer_id': u'68890430020',
+ 'product': u'\u94c1\u4e1d',
+ 'type': 'BUY',
+ 'unit': u'\u5428'}
+2015-09-07 13:17:45 [scrapy] DEBUG: Crawled (200) <GET http://1438238544308.go.1688.com/page/index.htm> (referer: None)
+2015-09-07 13:17:45 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/72879210020.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692687231)
+2015-09-07 13:17:45 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/72879210020.htm>
+{'amount': u'50',
+ 'company': u'\u6c38\u5eb7\u5e02\u9b54\u65b9\u5bb6\u5c45\u7528\u54c1\u5382',
+ 'memberid': u'b2b-1692687231',
+ 'offer_cat': u'1033438',
+ 'offer_id': u'72879210020',
+ 'product': u'\u94c1\u4e1d3.8',
+ 'type': 'BUY',
+ 'unit': u'\u5428'}
+2015-09-07 13:17:45 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/140315370020.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692687231)
+2015-09-07 13:17:45 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/140315370020.htm>
+{'amount': u'10',
+ 'company': u'\u6c38\u5eb7\u5e02\u9b54\u65b9\u5bb6\u5c45\u7528\u54c1\u5382',
+ 'memberid': u'b2b-1692687231',
+ 'offer_cat': u'1035438',
+ 'offer_id': u'140315370020',
+ 'product': u'\u8d85\u58f0\u6ce2\u5851\u6599\u710a\u63a5\u673a',
+ 'type': 'BUY',
+ 'unit': u'\u5957'}
+2015-09-07 13:17:46 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/117758500020.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692687231)
+2015-09-07 13:17:46 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/117758500020.htm>
+{'amount': u'5',
+ 'company': u'\u6c38\u5eb7\u5e02\u9b54\u65b9\u5bb6\u5c45\u7528\u54c1\u5382',
+ 'memberid': u'b2b-1692687231',
+ 'offer_cat': u'1045951',
+ 'offer_id': u'117758500020',
+ 'product': u'\u538b\u75d5PP\u7247\u8d85\u58f0\u6ce2',
+ 'type': 'BUY',
+ 'unit': u'\u6761'}
+2015-09-07 13:17:46 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/101175000020.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692687231)
+2015-09-07 13:17:46 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/101175000020.htm>
+{'amount': u'1',
+ 'company': u'\u6c38\u5eb7\u5e02\u9b54\u65b9\u5bb6\u5c45\u7528\u54c1\u5382',
+ 'memberid': u'b2b-1692687231',
+ 'offer_cat': u'65',
+ 'offer_id': u'101175000020',
+ 'product': u'\u8d85\u58f0\u6ce2',
+ 'type': 'BUY',
+ 'unit': u'\u5957'}
+2015-09-07 13:17:46 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/97904530020.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692687231)
+2015-09-07 13:17:46 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/97904530020.htm>
+{'amount': u'1000000',
+ 'company': u'\u6c38\u5eb7\u5e02\u9b54\u65b9\u5bb6\u5c45\u7528\u54c1\u5382',
+ 'memberid': u'b2b-1692687231',
+ 'offer_cat': u'1043961',
+ 'offer_id': u'97904530020',
+ 'product': u'\u9b54\u7247\u94c1\u7ebf\u6846',
+ 'type': 'BUY',
+ 'unit': u'\u4e2a'}
+2015-09-07 13:17:46 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688095754> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688095754>
+2015-09-07 13:17:46 [scrapy] DEBUG: Crawled (200) <GET http://1438238544308.go.1688.com/page/purchase.htm> (referer: http://1438238544308.go.1688.com/page/index.htm)
+2015-09-07 13:17:47 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688095105> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688095105>
+2015-09-07 13:17:47 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688182956> (referer: None)
+2015-09-07 13:17:47 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688179662> (referer: None)
+2015-09-07 13:17:47 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688182956&page=1&query_type=buyoffer&site_id=bing_portal> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688182956)
+2015-09-07 13:17:48 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688092932> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688092932>
+2015-09-07 13:17:48 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688178801> (referer: None)
+2015-09-07 13:17:48 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688200247> (referer: None)
+2015-09-07 13:17:48 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688205030> (referer: None)
+2015-09-07 13:17:49 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688213041> (referer: None)
+2015-09-07 13:17:49 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688092273> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688092273>
+2015-09-07 13:17:49 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688085804> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688085804>
+2015-09-07 13:17:49 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688100542> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688100542>
+2015-09-07 13:17:49 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/89250901535.htm> (referer: http://1438238544308.go.1688.com/page/index.htm)
+2015-09-07 13:17:50 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/89250901535.htm>
+{'amount': u'50000',
+ 'company': u'\u6df1\u5733\u5e02\u8fdc\u667a\u8fbe\u7535\u5b50\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1692692379',
+ 'offer_cat': u'1038217',
+ 'offer_id': u'89250901535',
+ 'product': u'\u4e00\u6258\u4e8c\u7ebf',
+ 'type': 'BUY',
+ 'unit': u'\u6761'}
+2015-09-07 13:17:50 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/89502211535.htm> (referer: http://1438238544308.go.1688.com/page/index.htm)
+2015-09-07 13:17:50 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/95329211535.htm> (referer: http://1438238544308.go.1688.com/page/index.htm)
+2015-09-07 13:17:50 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/89502211535.htm>
+{'amount': u'50000',
+ 'company': u'\u6df1\u5733\u5e02\u8fdc\u667a\u8fbe\u7535\u5b50\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1692692379',
+ 'offer_cat': None,
+ 'offer_id': u'89502211535',
+ 'product': u'\u4e00\u6258\u4e8c\u7ebf',
+ 'type': 'BUY',
+ 'unit': u'\u4e2a'}
+2015-09-07 13:17:50 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/95329211535.htm>
+{'amount': u'50000',
+ 'company': u'\u6df1\u5733\u5e02\u8fdc\u667a\u8fbe\u7535\u5b50\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1692692379',
+ 'offer_cat': u'1034008',
+ 'offer_id': u'95329211535',
+ 'product': u'\u4e00\u6258\u4e8c\u7ebf',
+ 'type': 'BUY',
+ 'unit': u'\u4e2a'}
+2015-09-07 13:17:50 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688095754> (referer: None)
+2015-09-07 13:17:50 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/69577451535.htm> (referer: http://1438238544308.go.1688.com/page/index.htm)
+2015-09-07 13:17:51 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/69577451535.htm>
+{'amount': u'20000',
+ 'company': u'\u6df1\u5733\u5e02\u8fdc\u667a\u8fbe\u7535\u5b50\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1692692379',
+ 'offer_cat': u'1043131',
+ 'offer_id': u'69577451535',
+ 'product': u'\u6269\u97f3\u5668\u8170\u5e26',
+ 'type': 'BUY',
+ 'unit': u'\u4e2a'}
+2015-09-07 13:17:51 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688095105> (referer: None)
+2015-09-07 13:17:51 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/92620601535.htm> (referer: http://1438238544308.go.1688.com/page/index.htm)
+2015-09-07 13:17:51 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/92620601535.htm>
+{'amount': u'50000',
+ 'company': u'\u6df1\u5733\u5e02\u8fdc\u667a\u8fbe\u7535\u5b50\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1692692379',
+ 'offer_cat': u'1032329',
+ 'offer_id': u'92620601535',
+ 'product': u'40mm\u84dd\u7259\u97f3\u7bb1\u5587\u53ed',
+ 'type': 'BUY',
+ 'unit': u'\u4e2a'}
+2015-09-07 13:17:51 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/57867971535.htm> (referer: http://1438238544308.go.1688.com/page/index.htm)
+2015-09-07 13:17:51 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/57867971535.htm>
+{'amount': u'10000',
+ 'company': u'\u6df1\u5733\u5e02\u8fdc\u667a\u8fbe\u7535\u5b50\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1692692379',
+ 'offer_cat': u'1047323',
+ 'offer_id': u'57867971535',
+ 'product': u'\u63d2\u5361\u6536\u97f3\u673a\u5e26\u5c4f\u5e55\u663e\u793a\u5916\u58f3',
+ 'type': 'BUY',
+ 'unit': u'PCS'}
+2015-09-07 13:17:51 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688092932> (referer: None)
+2015-09-07 13:17:52 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/57868621535.htm> (referer: http://1438238544308.go.1688.com/page/index.htm)
+2015-09-07 13:17:52 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/57868621535.htm>
+{'amount': u'2000',
+ 'company': u'\u6df1\u5733\u5e02\u8fdc\u667a\u8fbe\u7535\u5b50\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1692692379',
+ 'offer_cat': u'1047105',
+ 'offer_id': u'57868621535',
+ 'product': u'\u5e26\u6b4c\u8bcd\u663e\u793a\u7684\u6570\u5b57\u63d2\u5361\u6536\u97f3\u673a',
+ 'type': 'BUY',
+ 'unit': u'PCS'}
+2015-09-07 13:17:52 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/60854881969.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688182956)
+2015-09-07 13:17:52 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/60854881969.htm>
+{'amount': u'10000',
+ 'company': u'\u63ed\u9633\u5e02\u6995\u57ce\u533a\u4ed9\u6865\u60e0\u5e1d\u91d1\u5c5e\u65e5\u7528\u54c1\u5382',
+ 'memberid': u'b2b-1688182956',
+ 'offer_cat': u'1045512',
+ 'offer_id': u'60854881969',
+ 'product': u'\u63d2\u9488\u3001\u82b1\u679d',
+ 'type': 'BUY',
+ 'unit': u'\u4ef6'}
+2015-09-07 13:17:52 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688092932&page=1&query_type=buyoffer&site_id=bing_portal> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688092932)
+2015-09-07 13:17:52 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688047623> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688047623>
+2015-09-07 13:17:52 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688053115> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688053115>
+2015-09-07 13:17:52 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688092273> (referer: None)
+2015-09-07 13:17:53 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688085804> (referer: None)
+2015-09-07 13:17:53 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688100542> (referer: None)
+2015-09-07 13:17:53 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688056525> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688056525>
+2015-09-07 13:17:53 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688035994> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688035994>
+2015-09-07 13:17:54 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688062347> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688062347>
+2015-09-07 13:17:54 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688034026> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688034026>
+2015-09-07 13:17:54 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688035683> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688035683>
+2015-09-07 13:17:54 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688033124> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688033124>
+2015-09-07 13:17:55 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688063582> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688063582>
+2015-09-07 13:17:55 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688030816> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688030816>
+2015-09-07 13:17:55 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688029596> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688029596>
+2015-09-07 13:17:55 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688153402> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688153402>
+2015-09-07 13:17:56 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/112578190273.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688092932)
+2015-09-07 13:17:56 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/112578190273.htm>
+{'amount': u'3000',
+ 'company': u'\u6df1\u5733\u5e02\u5927\u901a\u9e4f\u8d8a\u79d1\u6280\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688092932',
+ 'offer_cat': u'1048186',
+ 'offer_id': u'112578190273',
+ 'product': u'\u5934\u6234\u5f0f\u84dd\u7259\u8033\u673aPCBA',
+ 'type': 'BUY',
+ 'unit': u'\u4e2a'}
+2015-09-07 13:17:56 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688047623> (referer: None)
+2015-09-07 13:17:56 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688053115> (referer: None)
+2015-09-07 13:17:56 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688015454> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688015454>
+2015-09-07 13:17:57 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688018653> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688018653>
+2015-09-07 13:17:57 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688156153> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688156153>
+2015-09-07 13:17:57 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688056525> (referer: None)
+2015-09-07 13:17:57 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688053115&page=1&query_type=buyoffer&site_id=bing_portal> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688053115)
+2015-09-07 13:17:57 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688035994> (referer: None)
+2015-09-07 13:17:58 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688062347> (referer: None)
+2015-09-07 13:17:58 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688034026> (referer: None)
+2015-09-07 13:17:58 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688035683> (referer: None)
+2015-09-07 13:17:58 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688033124> (referer: None)
+2015-09-07 13:17:58 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688063582> (referer: None)
+2015-09-07 13:17:59 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688030816> (referer: None)
+2015-09-07 13:17:59 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688029596> (referer: None)
+2015-09-07 13:17:59 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688153402> (referer: None)
+2015-09-07 13:17:59 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688164536> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688164536>
+2015-09-07 13:18:00 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688014997> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688014997>
+2015-09-07 13:18:00 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688171683> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688171683>
+2015-09-07 13:18:00 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688015454> (referer: None)
+2015-09-07 13:18:00 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688018653> (referer: None)
+2015-09-07 13:18:01 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688156153> (referer: None)
+2015-09-07 13:18:01 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/127623180249.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688053115)
+2015-09-07 13:18:01 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/127623180249.htm>
+{'amount': u'10',
+ 'company': u'\u9752\u5c9b\u745e\u8302\u7535\u6c14\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688053115',
+ 'offer_cat': None,
+ 'offer_id': u'127623180249',
+ 'product': u'\u9ed1\u8272\u5bc6\u5c01\u76d2',
+ 'type': 'BUY',
+ 'unit': u'\u4ef6'}
+2015-09-07 13:18:01 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688156153&page=1&query_type=buyoffer&site_id=bing_portal> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688156153)
+2015-09-07 13:18:01 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/118917660249.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688053115)
+2015-09-07 13:18:01 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/118917660249.htm>
+{'amount': u'1000',
+ 'company': u'\u9752\u5c9b\u745e\u8302\u7535\u6c14\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688053115',
+ 'offer_cat': u'1035362',
+ 'offer_id': u'118917660249',
+ 'product': u'\u6563\u70ed\u7247\uff0836*22\uff09',
+ 'type': 'BUY',
+ 'unit': u'\u4e2a'}
+2015-09-07 13:18:01 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/118876850249.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688053115)
+2015-09-07 13:18:01 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/118876850249.htm>
+{'amount': u'1000',
+ 'company': u'\u9752\u5c9b\u745e\u8302\u7535\u6c14\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688053115',
+ 'offer_cat': u'1035362',
+ 'offer_id': u'118876850249',
+ 'product': u'\u6563\u70ed\u724736*22\uff08mm\uff09',
+ 'type': 'BUY',
+ 'unit': u'\u4e2a'}
+2015-09-07 13:18:01 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/117042460249.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688053115)
+2015-09-07 13:18:02 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/117042460249.htm>
+{'amount': u'65',
+ 'company': u'\u9752\u5c9b\u745e\u8302\u7535\u6c14\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688053115',
+ 'offer_cat': u'1038219',
+ 'offer_id': u'117042460249',
+ 'product': u'024-1H1G\u7ee7\u7535\u5668\u548c\u5ea7',
+ 'type': 'BUY',
+ 'unit': u'\u5957'}
+2015-09-07 13:18:02 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/136507500249.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688053115)
+2015-09-07 13:18:02 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/136507500249.htm>
+{'amount': u'100',
+ 'company': u'\u9752\u5c9b\u745e\u8302\u7535\u6c14\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688053115',
+ 'offer_cat': u'1039427',
+ 'offer_id': u'136507500249',
+ 'product': u'\u6c7d\u8f66\u63a5\u63d2\u4ef6\u8fde\u63a5\u5668',
+ 'type': 'BUY',
+ 'unit': u'\u5957'}
+2015-09-07 13:18:02 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/110812390249.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688053115)
+2015-09-07 13:18:02 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688176475> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688176475>
+2015-09-07 13:18:02 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/110812390249.htm>
+{'amount': u'400',
+ 'company': u'\u9752\u5c9b\u745e\u8302\u7535\u6c14\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688053115',
+ 'offer_cat': u'1039966',
+ 'offer_id': u'110812390249',
+ 'product': u'\u6c7d\u8f66\u7247\u5f0f\u4fdd\u9669\u4e1d\u5ea7',
+ 'type': 'BUY',
+ 'unit': u'\u4e2a'}
+2015-09-07 13:18:02 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/110812390249.htm>
+{'amount': u'120',
+ 'company': u'\u9752\u5c9b\u745e\u8302\u7535\u6c14\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688053115',
+ 'offer_cat': u'1039966',
+ 'offer_id': u'110812390249',
+ 'product': u'024-1Z1G\u7ee7\u7535\u5668\u548c\u5b89\u88c5\u5ea7',
+ 'type': 'BUY',
+ 'unit': u'\u5957'}
+2015-09-07 13:18:02 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688223602> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688223602>
+2015-09-07 13:18:03 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688225485> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688225485>
+2015-09-07 13:18:03 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688229986> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688229986>
+2015-09-07 13:18:03 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688164536> (referer: None)
+2015-09-07 13:18:04 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688014997> (referer: None)
+2015-09-07 13:18:04 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688171683> (referer: None)
+2015-09-07 13:18:04 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688233784> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688233784>
+2015-09-07 13:18:04 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688014997&page=1&query_type=buyoffer&site_id=bing_portal> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688014997)
+2015-09-07 13:18:04 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692780698> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1692780698>
+2015-09-07 13:18:04 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692787102> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1692787102>
+2015-09-07 13:18:05 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/74361830707.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688156153)
+2015-09-07 13:18:05 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/74361830707.htm>
+{'amount': u'50000',
+ 'company': u'\u957f\u6c99\u5e02\u96e8\u82b1\u533a\u4e2d\u51a0\u5efa\u7b51\u5668\u6750\u79df\u8d41\u7ecf\u8425\u90e8',
+ 'memberid': u'b2b-1688156153',
+ 'offer_cat': u'903',
+ 'offer_id': u'74361830707',
+ 'product': u'\u5efa\u7b51\u94a2\u7b4b\u811a\u8e0f\u7f51\uff08\u94a2\u7b06\u7247\uff09',
+ 'type': 'BUY',
+ 'unit': u'\u7247'}
+2015-09-07 13:18:05 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688014278> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688014278>
+2015-09-07 13:18:05 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688013472> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688013472>
+2015-09-07 13:18:05 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688012339> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688012339>
+2015-09-07 13:18:06 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688010364> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688010364>
+2015-09-07 13:18:06 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688008826> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688008826>
+2015-09-07 13:18:06 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688176475> (referer: None)
+2015-09-07 13:18:07 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688223602> (referer: None)
+2015-09-07 13:18:07 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688225485> (referer: None)
+2015-09-07 13:18:07 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688229986> (referer: None)
+2015-09-07 13:18:07 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688001967> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688001967>
+2015-09-07 13:18:07 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688223602&page=1&query_type=buyoffer&site_id=bing_portal> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688223602)
+2015-09-07 13:18:07 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688004710> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1688004710>
+2015-09-07 13:18:07 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688233784> (referer: None)
+2015-09-07 13:18:08 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/104214500924.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688014997)
+2015-09-07 13:18:08 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/104214500924.htm>
+{'amount': u'10000',
+ 'company': u'\u6df1\u5733\u5e02\u5927\u6b63\u5b87\u7535\u5b50\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688014997',
+ 'offer_cat': u'1032300',
+ 'offer_id': u'104214500924',
+ 'product': u'\u4fdd\u62a4\u677f 18650',
+ 'type': 'BUY',
+ 'unit': u'\u4ef6'}
+2015-09-07 13:18:08 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692780698> (referer: None)
+2015-09-07 13:18:08 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692787102> (referer: None)
+2015-09-07 13:18:08 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/107674070924.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688014997)
+2015-09-07 13:18:08 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/107674070924.htm>
+{'amount': u'10000',
+ 'company': u'\u6df1\u5733\u5e02\u5927\u6b63\u5b87\u7535\u5b50\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688014997',
+ 'offer_cat': u'1032300',
+ 'offer_id': u'107674070924',
+ 'product': u'\u4fdd\u62a4\u677f',
+ 'type': 'BUY',
+ 'unit': u'\u4ef6'}
+2015-09-07 13:18:08 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692787102&page=1&query_type=buyoffer&site_id=bing_portal> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692787102)
+2015-09-07 13:18:09 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688014278> (referer: None)
+2015-09-07 13:18:09 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688013472> (referer: None)
+2015-09-07 13:18:09 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688012339> (referer: None)
+2015-09-07 13:18:09 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688010364> (referer: None)
+2015-09-07 13:18:10 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688008826> (referer: None)
+2015-09-07 13:18:10 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688010364&page=1&query_type=buyoffer&site_id=bing_portal> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688010364)
+2015-09-07 13:18:10 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/107836170924.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688014997)
+2015-09-07 13:18:10 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/107836170924.htm>
+{'amount': u'10000',
+ 'company': u'\u6df1\u5733\u5e02\u5927\u6b63\u5b87\u7535\u5b50\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688014997',
+ 'offer_cat': u'10206',
+ 'offer_id': u'107836170924',
+ 'product': u'\u805a\u5408\u7269\u7535\u82af',
+ 'type': 'BUY',
+ 'unit': u'\u4ef6'}
+2015-09-07 13:18:10 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/99137490924.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688014997)
+2015-09-07 13:18:10 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/99137490924.htm>
+{'amount': u'10000',
+ 'company': u'\u6df1\u5733\u5e02\u5927\u6b63\u5b87\u7535\u5b50\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688014997',
+ 'offer_cat': u'10206',
+ 'offer_id': u'99137490924',
+ 'product': u'\u805a\u5408\u7269\u7535\u82af351445',
+ 'type': 'BUY',
+ 'unit': u'\u4e2a'}
+2015-09-07 13:18:10 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/61120320924.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688014997)
+2015-09-07 13:18:10 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/61120320924.htm>
+{'amount': u'100000',
+ 'company': u'\u6df1\u5733\u5e02\u5927\u6b63\u5b87\u7535\u5b50\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688014997',
+ 'offer_cat': u'10454',
+ 'offer_id': u'61120320924',
+ 'product': u'\u4e09\u661fN7100 I9500\u7535\u6c60\u5916\u6807 \uff08\u82f1\u6587\u7248\uff09',
+ 'type': 'BUY',
+ 'unit': u'\u7247'}
+2015-09-07 13:18:11 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688001967> (referer: None)
+2015-09-07 13:18:11 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/70390820923.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688223602)
+2015-09-07 13:18:11 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/70390820923.htm>
+{'amount': u'1000',
+ 'company': u'\u6df1\u5733\u5e02\u946b\u6e90\u540c\u5927\u79d1\u6280\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688223602',
+ 'offer_cat': u'1610',
+ 'offer_id': u'70390820923',
+ 'product': u'\u60c5\u8da3\u7528\u54c1',
+ 'type': 'BUY',
+ 'unit': u'PCS'}
+2015-09-07 13:18:11 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688004710> (referer: None)
+2015-09-07 13:18:11 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/128035230923.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688223602)
+2015-09-07 13:18:11 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/128035230923.htm>
+{'amount': u'1000',
+ 'company': u'\u6df1\u5733\u5e02\u946b\u6e90\u540c\u5927\u79d1\u6280\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688223602',
+ 'offer_cat': u'10206',
+ 'offer_id': u'128035230923',
+ 'product': u'\u822a\u6a21\u7535\u6c60',
+ 'type': 'BUY',
+ 'unit': u'PCS'}
+2015-09-07 13:18:11 [scrapy] DEBUG: Crawled (200) <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688004710&page=1&query_type=buyoffer&site_id=bing_portal> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688004710)
+2015-09-07 13:18:11 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/72849420923.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688223602)
+2015-09-07 13:18:11 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/72849420923.htm>
+{'amount': u'10000',
+ 'company': u'\u6df1\u5733\u5e02\u946b\u6e90\u540c\u5927\u79d1\u6280\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688223602',
+ 'offer_cat': u'181309',
+ 'offer_id': u'72849420923',
+ 'product': u'\u76ca\u667a\u7c7b\u6728\u8d28\u73a9\u5177',
+ 'type': 'BUY',
+ 'unit': u'\u5957'}
+2015-09-07 13:18:12 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/127559100923.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688223602)
+2015-09-07 13:18:12 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/127559100923.htm>
+{'amount': u'10000',
+ 'company': u'\u6df1\u5733\u5e02\u946b\u6e90\u540c\u5927\u79d1\u6280\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688223602',
+ 'offer_cat': u'1032031',
+ 'offer_id': u'127559100923',
+ 'product': u'\u98ce\u7b5d',
+ 'type': 'BUY',
+ 'unit': u'\u53ea'}
+2015-09-07 13:18:12 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/140434380923.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688223602)
+2015-09-07 13:18:12 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/140434380923.htm>
+{'amount': u'1000',
+ 'company': u'\u6df1\u5733\u5e02\u946b\u6e90\u540c\u5927\u79d1\u6280\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688223602',
+ 'offer_cat': u'1032228',
+ 'offer_id': u'140434380923',
+ 'product': u'GOPRO 4S',
+ 'type': 'BUY',
+ 'unit': u'PCS'}
+2015-09-07 13:18:12 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/87851100923.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688223602)
+2015-09-07 13:18:12 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/87851100923.htm>
+{'amount': u'1000',
+ 'company': u'\u6df1\u5733\u5e02\u946b\u6e90\u540c\u5927\u79d1\u6280\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688223602',
+ 'offer_cat': u'10231',
+ 'offer_id': u'87851100923',
+ 'product': u'\u8235\u673a \u9a6c\u8fbe\u7535\u8c03',
+ 'type': 'BUY',
+ 'unit': u'PCS'}
+2015-09-07 13:18:12 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/87852500923.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688223602)
+2015-09-07 13:18:12 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/87852500923.htm>
+{'amount': u'1000',
+ 'company': u'\u6df1\u5733\u5e02\u946b\u6e90\u540c\u5927\u79d1\u6280\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688223602',
+ 'offer_cat': u'181325',
+ 'offer_id': u'87852500923',
+ 'product': u'\u6574\u86ca\u73a9\u5177',
+ 'type': 'BUY',
+ 'unit': u'PCS'}
+2015-09-07 13:18:12 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/119293331174.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1692787102)
+2015-09-07 13:18:13 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/119293331174.htm>
+{'amount': u'100',
+ 'company': u'\u4f5b\u5c71\u5e02\u6d01\u5723\u6d17\u6da4\u7528\u54c1\u5382',
+ 'memberid': u'b2b-1692787102',
+ 'offer_cat': u'123930001',
+ 'offer_id': u'119293331174',
+ 'product': u'\u6d01\u5723\u724c',
+ 'type': 'BUY',
+ 'unit': u'\u4ef6'}
+2015-09-07 13:18:13 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/72847350923.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688223602)
+2015-09-07 13:18:13 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/72847350923.htm>
+{'amount': u'1000',
+ 'company': u'\u6df1\u5733\u5e02\u946b\u6e90\u540c\u5927\u79d1\u6280\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688223602',
+ 'offer_cat': u'1033661',
+ 'offer_id': u'72847350923',
+ 'product': u'\u6c42\u8d2d\u6d77\u7ef5\u5b57\u6bcd\u6570\u5b57\u7b49\u56fe\u6848\u5730\u57ab\u62fc\u56fe',
+ 'type': 'BUY',
+ 'unit': u'PCS'}
+2015-09-07 13:18:13 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/93066051022.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688010364)
+2015-09-07 13:18:13 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/93066051022.htm>
+{'amount': u'1000',
+ 'company': u'\u80f6\u5dde\u5e02\u65f6\u5c1a\u7206\u5427\u670d\u88c5\u5546\u5e97',
+ 'memberid': u'b2b-1688010364',
+ 'offer_cat': None,
+ 'offer_id': u'93066051022',
+ 'product': u'\u52a0\u7ed2\u886c\u886b',
+ 'type': 'BUY',
+ 'unit': u'\u4ef6'}
+2015-09-07 13:18:13 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/93101471022.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688010364)
+2015-09-07 13:18:14 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/93101471022.htm>
+{'amount': u'1000',
+ 'company': u'\u80f6\u5dde\u5e02\u65f6\u5c1a\u7206\u5427\u670d\u88c5\u5546\u5e97',
+ 'memberid': u'b2b-1688010364',
+ 'offer_cat': None,
+ 'offer_id': u'93101471022',
+ 'product': u'\u56db\u6b3e\u725b\u4ed4\u88e4',
+ 'type': 'BUY',
+ 'unit': u'\u4ef6'}
+2015-09-07 13:18:14 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/131274560923.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688223602)
+2015-09-07 13:18:14 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/89698831022.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688010364)
+2015-09-07 13:18:14 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/131274560923.htm>
+{'amount': u'1000',
+ 'company': u'\u6df1\u5733\u5e02\u946b\u6e90\u540c\u5927\u79d1\u6280\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688223602',
+ 'offer_cat': u'1035652',
+ 'offer_id': u'131274560923',
+ 'product': u'\u73a9\u5177\u9ab0\u5b50 \u53ca\u5468\u8fb9\u5668\u5177',
+ 'type': 'BUY',
+ 'unit': u'PCS'}
+2015-09-07 13:18:14 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/89698831022.htm>
+{'amount': u'5000',
+ 'company': u'\u80f6\u5dde\u5e02\u65f6\u5c1a\u7206\u5427\u670d\u88c5\u5546\u5e97',
+ 'memberid': u'b2b-1688010364',
+ 'offer_cat': None,
+ 'offer_id': u'89698831022',
+ 'product': u'\u68d2\u7403\u8863',
+ 'type': 'BUY',
+ 'unit': u'\u4ef6'}
+2015-09-07 13:18:14 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/124363400923.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688223602)
+2015-09-07 13:18:14 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/124363400923.htm>
+{'amount': u'10000',
+ 'company': u'\u6df1\u5733\u5e02\u946b\u6e90\u540c\u5927\u79d1\u6280\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688223602',
+ 'offer_cat': u'156',
+ 'offer_id': u'124363400923',
+ 'product': u'\u7535\u5b50\u8721\u70db',
+ 'type': 'BUY',
+ 'unit': u'PCS'}
+2015-09-07 13:18:14 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/58540310923.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688223602)
+2015-09-07 13:18:14 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/58540310923.htm>
+{'amount': u'10000',
+ 'company': u'\u6df1\u5733\u5e02\u946b\u6e90\u540c\u5927\u79d1\u6280\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688223602',
+ 'offer_cat': u'1717',
+ 'offer_id': u'58540310923',
+ 'product': u'\u5bb6\u5c45',
+ 'type': 'BUY',
+ 'unit': u'PCS'}
+2015-09-07 13:18:14 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/58540310923.htm>
+{'amount': u'1000',
+ 'company': u'\u6df1\u5733\u5e02\u946b\u6e90\u540c\u5927\u79d1\u6280\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688223602',
+ 'offer_cat': u'1717',
+ 'offer_id': u'58540310923',
+ 'product': u'\u5bb6\u5c45\u4ea7\u54c1',
+ 'type': 'BUY',
+ 'unit': u'PCS'}
+2015-09-07 13:18:14 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/128662560923.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688223602)
+2015-09-07 13:18:15 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/128662560923.htm>
+{'amount': u'100',
+ 'company': u'\u6df1\u5733\u5e02\u946b\u6e90\u540c\u5927\u79d1\u6280\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688223602',
+ 'offer_cat': u'1044794',
+ 'offer_id': u'128662560923',
+ 'product': u'\u8fd0\u52a8\u5668\u6750\u6e9c\u51b0\u978b',
+ 'type': 'BUY',
+ 'unit': u'\u53cc'}
+2015-09-07 13:18:15 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/125854870923.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688223602)
+2015-09-07 13:18:15 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/108779270926.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688004710)
+2015-09-07 13:18:15 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/125854870923.htm>
+{'amount': u'100',
+ 'company': u'\u6df1\u5733\u5e02\u946b\u6e90\u540c\u5927\u79d1\u6280\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688223602',
+ 'offer_cat': u'1044717',
+ 'offer_id': u'125854870923',
+ 'product': u'\u56fd\u9645\u8c61\u68cb',
+ 'type': 'BUY',
+ 'unit': u'PCS'}
+2015-09-07 13:18:15 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/108779270926.htm>
+{'amount': u'2',
+ 'company': u'\u5357\u901a\u5e02\u901a\u5dde\u533a\u77f3\u6e2f\u4e2d\u5b66\u5236\u7248\u5370\u5237\u5382',
+ 'memberid': u'b2b-1688004710',
+ 'offer_cat': u'68',
+ 'offer_id': u'108779270926',
+ 'product': u'\u5168\u65b0\u805a\u4e19\u70ef PP\u7b52\u6599',
+ 'type': 'BUY',
+ 'unit': u'\u5428'}
+2015-09-07 13:18:15 [scrapy] DEBUG: Crawled (200) <GET http://go.1688.com/buyoffer/133285480923.htm> (referer: http://portal.go.1688.com/page/portal.htm?member_id=b2b-1688223602)
+2015-09-07 13:18:15 [scrapy] DEBUG: Scraped from <200 http://go.1688.com/buyoffer/133285480923.htm>
+{'amount': u'1000',
+ 'company': u'\u6df1\u5733\u5e02\u946b\u6e90\u540c\u5927\u79d1\u6280\u6709\u9650\u516c\u53f8',
+ 'memberid': u'b2b-1688223602',
+ 'offer_cat': u'1905',
+ 'offer_id': u'133285480923',
+ 'product': u'\u5bcc\u58eb\u62cd\u7acb\u5f97\u4e00\u6b21\u6210\u50cf_\u80f6\u7247%',
+ 'type': 'BUY',
+ 'unit': u'\u5305'}
+2015-09-07 13:18:15 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1687942382> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1687942382>
+2015-09-07 13:18:15 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1687941499> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1687941499>
+2015-09-07 13:18:16 [scrapy] DEBUG: Redirecting (301) to <GET http://portal.go.1688.com/page/portal.htm?member_id=b2b-1687941093> from <GET http://go.1688.com/page/portal.htm?member_id=b2b-1687941093>
