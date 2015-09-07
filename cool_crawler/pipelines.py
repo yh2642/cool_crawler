@@ -21,7 +21,7 @@ class CoolCrawlerPipeline(object):
         self.dbpool = adbapi.ConnectionPool(
                 dbapiName='MySQLdb',
                 host='localhost',
-                db = 'test1',
+                db = 'test2',
                 user = 'root',
                 passwd = 'root',
                 cursorclass = MySQLdb.cursors.DictCursor,
