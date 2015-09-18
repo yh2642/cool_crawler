@@ -1,14 +1,27 @@
 #-*-coding:utf-8-*-
 import random
 from scrapy.contrib.downloadermiddleware.useragent import UserAgentMiddleware
-
+import re
+from scrapy.exceptions import IgnoreRequest
 
 
 class RotateUserAgentMiddleware(UserAgentMiddleware):
     def __init__(self, user_agent=''):
+        self.settings = settings
+        self.server = redis.Redis(host=settings.get('REDIS_HOST'), port=settings.get('REDIS_PORT'))
         self.user_agent = user_agent
+        self.pattern = re.compile(r'/buyoffer/\d+.htm')
+
+    @classmethod
+    def from_crawler(cls, crawler):
+        return cls(crawler.settings)
 
     def process_request(self, request, spider):
+        if self.pattern.match(request.url):
+            self.server.lpush('buyoffer_queue', request.url)
+            print u'SUCCESS UPLOAD(%s)' % request.url
+            raise IgnoreRequest
+
         ua = random.choice(self.user_agent_list)
         if ua:
             request.headers.setdefault('User-Agent', ua)

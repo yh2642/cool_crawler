@@ -25,7 +25,8 @@ SCHEDULER_PERSIST = True
 
 
 ITEM_PIPELINES = {
-    'cool_crawler.pipelines.CoolCrawlerPipeline': 300
+    'cool_crawler.pipelines.CoolCrawlerPipeline': 300,
+    'scrapy_redis.pipelines.RedisPipeline': 400
 }
 
 DOWNLOADER_MIDDLEWARES = {
@@ -101,3 +102,12 @@ COOKIES_ENABLED=False
 #HTTPCACHE_DIR='httpcache'
 #HTTPCACHE_IGNORE_HTTP_CODES=[]
 #HTTPCACHE_STORAGE='scrapy.extensions.httpcache.FilesystemCacheStorage'
+REDIS_HOST = '192.168.199.242'
+# REDIS_HOST = 'localhost'
+REDIS_PORT =  6379
+
+MYSQL_HOST = '192.168.199.242'
+# MYSQL_HOST = 'localhost'
+MYSQL_USER = 'jeffrey'
+MYSQL_PASSWORD = 'huyichao'
+#REDIRECT_MAX_TIMES = 1

@@ -18,6 +18,7 @@ class SpiderItem(scrapy.Item):
     amount = scrapy.Field()
     unit = scrapy.Field()
     offer_cat = scrapy.Field()
+    title = scrapy.Field()
     #crawled = scrapy.Field()
     #spider = scrapy.Field()
 

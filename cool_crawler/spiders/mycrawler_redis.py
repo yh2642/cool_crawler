@@ -9,14 +9,15 @@ from cool_crawler.items import SpiderItem
 
 class MyCrawler(RedisMixin, CrawlSpider):
     """Spider that reads urls from redis queue (myspider:start_urls)."""
-    name = 'buy_offer'
+    name = 'buyoffer_digger'
+    #redis_key = 'test:start_urls'
     redis_key = 'buy_offer:start_urls'
 
     rules = [Rule(LinkExtractor(allow=('/buyoffer/\d+.htm',)), callback='targetparse'),
              Rule(LinkExtractor(allow=('page=\d+',)), follow=True),
              Rule(LinkExtractor(allow=('/page/page/\d+',)), follow =True),
              Rule(LinkExtractor(allow=('/page/purchase.htm',)), follow=True, callback='countparse')]
-    download_delay = 0.2
+    download_delay = 1
 
     def __init__(self, *args, **kwargs):
         domain = kwargs.pop('domain', '')
@@ -34,6 +35,7 @@ class MyCrawler(RedisMixin, CrawlSpider):
             offer_cat = None
         else:
             offer_cat = offer_cat_ls[0]
+        title = response.xpath('//div[@class="go-main-title"]/h2[@class="go-l-title"]/@title').extract()
         company = response.xpath('//h4[@title]/text()').extract()[0]
         memberid = response.xpath('//div[@class="cell-block"]/a[@class="more-offer"]/@href').re(r'memberId=(.*)&.*')[0]
         product_ls = response.xpath('//table[@class="list-table"]/tbody/tr/td[1]/text()').extract()
@@ -51,6 +53,7 @@ class MyCrawler(RedisMixin, CrawlSpider):
             buyoffer['product'] = product_ls[indx]
             buyoffer['amount'] = amount_ls[indx]
             buyoffer['unit'] = unit_ls[indx]
+            buyoffer['title'] = title[0]
             yield buyoffer
 
     def countparse(self,response):

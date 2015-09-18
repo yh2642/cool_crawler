@@ -2,14 +2,12 @@ __author__ = 'huyichao'
 
 
 import redis
+r = redis.Redis()
 
-with open('task.txt', 'r') as task:
-    memberid_ls = task.readlines()
 start_urls = (
-       'http://go.1688.com/page/portal.htm?member_id=' + ele.strip() for ele in memberid_ls
+       'http://go.1688.com/page/portal.htm?member_id=' + ele.strip() for ele in r.lrange('memberid_queue', 0, r.llen('sell_offer:start_urls'))
 )
 
-r = redis.Redis()
 count = 1
 for ele in start_urls:
     r.lpush('buy_offer:start_urls', ele)
